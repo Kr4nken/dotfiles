@@ -44,7 +44,9 @@ then
 fi
 sudo cp rofi/jflx.rasi /usr/share/rofi/themes/jflx.rasi
 echo "Created file: /usr/share/rofi/themes/jflx.rasi"
-sudo cp rofi/nord-rofi /usr/share/rofi/themes/nord-rofi -r
+sudo cp rofi/jflx.rasi /usr/share/rofi/themes/onedark.rasi
+echo "Created file: /usr/share/rofi/themes/onedark.rasi"
+sudo cp rofi/nord-rofi /usr/share/rofi/themes/rofi -r
 echo "applied nord-rofi theme"
 
 echo "########################"
@@ -254,6 +256,11 @@ then
 	s="${s} nerd-fonts-symbols-mono"
 	echo "nerd-fonts-symbols-mono is not installed. Added to list."
 fi 
+if [[ ! -f /usr/share/fonts/TTF/FantasqueSansMono.ttf ]]
+then
+	s="${s} ttf-fantasque-sans-mono"
+	echo "ttf-fantasque-sans-mono is not installed. Added to list."
+fi
 
 echo "#########################"
 echo "#       PIPEWIRE        #"
