@@ -97,6 +97,7 @@ sudo cp awesome/theme.lua /usr/share/awesome/themes/zenburn/theme.lua
 echo "Created file: /usr/share/awesome/themes/zenburn/theme.lua"
 sudo cp awesome/awesome-nord-theme /usr/share/awesome/themes/ -r
 echo "Applied awesome-nord-theme"
+cp awesome/config/* ~/.config/awesome -rdf
 
 echo "#################"
 echo "#       LY      #"
