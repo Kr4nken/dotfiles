@@ -1,5 +1,6 @@
 #!/bin/bash
 s=""
+y=""
 echo "#########################"
 echo "#      BACKGROUNDS      #"
 echo "#########################"
@@ -258,7 +259,7 @@ then
 fi 
 if [[ ! -f /usr/share/fonts/TTF/FantasqueSansMono.ttf ]]
 then
-	s="${s} ttf-fantasque-sans-mono"
+	y="${y} ttf-fantasque-sans-mono"
 	echo "ttf-fantasque-sans-mono is not installed. Added to list."
 fi
 
@@ -365,6 +366,11 @@ if [[ ! "$s" = "" ]]
 then
 	echo "Installing from list..."
 	sudo pacman -S$s
+fi
+if [[ ! "$y" = "" ]]
+then
+	echo "Installing from list..."
+	yay -S$y
 fi
 
 ###############
