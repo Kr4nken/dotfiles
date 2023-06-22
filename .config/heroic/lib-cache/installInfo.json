@@ -1,0 +1,66 @@
+{
+	"Honeycreeper": {
+		"game": {
+			"app_name": "Honeycreeper",
+			"title": "Diabotical",
+			"version": "0.20.471",
+			"platform_versions": {
+				"Windows": "0.20.471"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/../Roaming/Diabotical/CloudSave/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": [
+				{
+					"app_name": null,
+					"title": "Fan pack Audience",
+					"installable": null,
+					"id": "37afb12542de456292c9ff075675eaa9"
+				},
+				{
+					"app_name": null,
+					"title": "Big Pack Audience",
+					"installable": null,
+					"id": "80b6fecd8e984213914a708628eee6e5"
+				},
+				{
+					"app_name": null,
+					"title": "Standard Pack Audience",
+					"installable": null,
+					"id": "a8fe3511c7e14a2c88e8058634f7286c"
+				},
+				{
+					"app_name": null,
+					"title": "Starter Pack Audience",
+					"installable": null,
+					"id": "eea24f16f3804983825ad91e33e85c6b"
+				}
+			]
+		},
+		"install": null,
+		"manifest": {
+			"size": 1485913,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "Honeycreeper",
+			"launch_exe": "Diabotical-Launcher.exe",
+			"launch_command": "",
+			"build_version": "0.20.471",
+			"build_id": "9t_rZFqDoJWcVRWC6JTVbmBhRpE",
+			"prerequisites": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 13020,
+			"num_chunks": 15765,
+			"disk_size": 18005002355,
+			"download_size": 8202231341,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

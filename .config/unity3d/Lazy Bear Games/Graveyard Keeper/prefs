@@ -1,0 +1,14 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">0</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1920</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="settings" type="string">eyJ2b2x1bWVfbWFzdGVyIjowLCJ2b2x1bWVfbXVzaWMiOjEwMCwidm9sdW1lX3NmeCI6MTAwLCJ2b2x1bWVfc3BlZWNoIjoxMDAsInNjcmVlbl9tb2RlIjowLCJjdXJzb3JfbW9kZSI6MiwibGFuZ3VhZ2UiOiJlbiIsInJlc194IjoxOTIwLCJyZXNfeSI6MTA4MCwidnN5bmNfbW9kZSI6MCwia2V5c19iaW5kaW5nX2pzb24iOiJ7XCJrZXlzXCI6WzQsNSw2LDcsOCw5LDEwLDExLDEyLDEzLDE0LDE1LDE2LDE3LDE4LDE5LDIxLDI0LDI1LDMxLDMzLDM0LDM4LDM5LDM1LDQwXSxcInZhbHVlc1wiOlt7XCJrZXlzXCI6WzMyXX0se1wia2V5c1wiOlszMDRdfSx7XCJrZXlzXCI6WzMwM119LHtcImtleXNcIjpbMTAxXX0se1wia2V5c1wiOlsxMDJdfSx7XCJrZXlzXCI6WzEyMF19LHtcImtleXNcIjpbOV19LHtcImtleXNcIjpbMjddfSx7XCJrZXlzXCI6WzQ5XX0se1wia2V5c1wiOls1MF19LHtcImtleXNcIjpbNTFdfSx7XCJrZXlzXCI6WzUyXX0se1wia2V5c1wiOls5NywyNzZdfSx7XCJrZXlzXCI6WzEwMCwyNzVdfSx7XCJrZXlzXCI6WzExOSwyNzNdfSx7XCJrZXlzXCI6WzExNSwyNzRdfSx7XCJrZXlzXCI6WzI3XX0se1wia2V5c1wiOls5NywyNzZdfSx7XCJrZXlzXCI6WzEwMCwyNzVdfSx7XCJrZXlzXCI6WzExNF19LHtcImtleXNcIjpbMzA2XX0se1wia2V5c1wiOlsxMDFdfSx7XCJrZXlzXCI6WzEwNV19LHtcImtleXNcIjpbMTE2XX0se1wia2V5c1wiOlsxMDldfSx7XCJrZXlzXCI6WzExMF19XX0iLCJpc19zdHJhbmdlcl9zaW5zX3BvcHVwX3dpbmRvd19zaG93biI6ZmFsc2UsImlzX3JlZnVnZWVzX3BvcHVwX3dpbmRvd19zaG93biI6ZmFsc2UsImlzX3NvdWxzX3BvcHVwX3dpbmRvd19zaG93biI6ZmFsc2V9</pref>
+	<pref name="unity.player_session_count" type="string">Nw==</pref>
+	<pref name="unity.player_sessionid" type="string">NDUyODkzNTI0MDUyNTQwNzkwMg==</pref>
+</unity_prefs>

@@ -1,0 +1,149 @@
+[{
+    "output": "DP-1",
+    "modules-left": ["sway/workspaces","sway/window"],
+    "modules-center": [],
+    "modules-right": ["cpu", "memory","pulseaudio","network#1","battery","custom/ddcutilAOC","clock"],
+
+    "sway/workspaces": {
+
+    "disable-scroll": false,
+    "all-outputs": true,
+    "format": "{icon}",
+    "format-icons": {
+
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "focused": "",
+    "urgent": "",
+    "default": ""
+},
+
+},
+    "sway/mode": {
+
+    "format": "<span style=\"italic\">{}</span>"
+},
+   "network#1": {
+
+    "interface": "wlan0",
+    "format": "<span >{icon}</span> {ifname}",
+    "format-wifi": "<span >{icon}</span> {essid}-{ipaddr}",
+    "format-ethernet": "{ifname} ",
+    "format-disconnected": "", //An empty format will hide the module.
+    "tooltip-format": "{ifname}",
+    "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
+    "tooltip-format-disconnected": "Disconnected"
+},
+
+    "battery": {
+
+    "interval": 60,
+    "states": {
+    "warning": 30,
+    "critical": 15
+    },
+    "format": "<span>{icon}</span><span>:</span>{capacity}%",
+    "format-icons":["", "", "", "", ""],
+},
+
+    "custom/ddcutilAOC": {
+
+    "format": "<span>{icon}</span><span>:</span>{percentage}%",
+    "interval": "once",
+    "format-icons":["🌕", "🌔", "🌓", "🌒", "🌑"],
+    "exec": "~/.config/waybar/ddc_backlightAOC.sh",
+    "return-type": "json",
+    "on-scroll-down": "ddcutil --bus 5 setvcp --sleep-multiplier .1 10 - 5 || ./.config/waybar/ddc_backlightAOC.sh",
+    "on-scroll-up": "ddcutil --bus 5 setvcp --sleep-multiplier .1 10 + 5 || ./.config/waybar/ddc_backlightAOC.sh"
+},
+    "backlight": {
+
+    "device": "intel_backlight",
+    "interval": 2,
+    "format": "<span>{icon}:</span>{percent}%",
+    "format-icons": ["🌕", "🌔", "🌓", "🌒", "🌑"],
+    "on-scroll-down": "brightnessctl -c backlight set 5%-",
+    "on-scroll-up": "brightnessctl -c backlight set +5%"
+},
+    "clock": {
+
+    "timezone": "Europe/Paris",
+    "format": "<span></span><span>:</span><span>{:%H:%M}</span>",
+},
+    "pulseaudio": {
+
+    "format": "<span>{icon}墳</span><span>:</span>{volume:2}%",
+    "format-bluetooth": "{icon}  {volume}%",
+    "format-muted": "<span>{icon}婢:</span><span>:</span>{volume:2}%",
+    "format-icons": {
+},
+    "scroll-step": 1,
+    "on-click": "pamixer -t",
+    "on-click-right": "pavucontrol"
+    },
+    "cpu": {
+
+    "interval": 10,
+    "format": "<span></span><span>:</span>{usage}%",
+    "max-length": 100
+},
+    "memory": {
+
+    "interval": 30,
+    "format": "<span>󰍛</span><span>:</span>{}%",
+    "max-length": 10
+    }
+},{
+    "output": "DP-2",
+    "modules-left": ["sway/workspaces","sway/window"],
+    "modules-center": [],
+    "modules-right": ["custom/ddcutil"],
+
+    "sway/workspaces": {
+
+    "disable-scroll": false,
+    "all-outputs": true,
+    "format": "{icon}",
+    "persistent_workspaces": {
+
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+},
+    "format-icons": {
+
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": "",
+    "focused": "",
+    "urgent": "",
+    "default": ""
+},},
+    "sway/window": {
+
+    "format": "<span color=\"#50fa7b\"></span><span color=\"#bd93f9\">:</span>{}",
+    "max-length": 80
+},
+
+    "custom/ddcutil": {
+
+    "format": "<span color=\"#50fa7b\">{icon}</span><span color=\"#bd93f9\">:</span>{percentage}%",
+    "interval": "once",
+    "format-icons":["🌕", "🌔", "🌓", "🌒", "🌑"],
+    "exec": "~/.config/waybar/ddc_backlight.sh",
+    "return-type": "json",
+    "on-scroll-down": "ddcutil --bus 6 setvcp --sleep-multiplier .1 10 - 5 || ./.config/waybar/ddc_backlight.sh",
+    "on-scroll-up": "ddcutil --bus 6 setvcp --sleep-multiplier .1 10 + 5 || ./.config/waybar/ddc_backlight.sh "
+}
+
+}]

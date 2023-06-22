@@ -1,0 +1,403 @@
+Mono path[0] = '/home/jflx/.local/share/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = '/home/jflx/.local/share/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/etc'
+Preloaded 'libparty.so'
+Preloaded 'libsteam_api.so'
+Display 0 'XWAYLAND0 32"': 2560x1440 (primary device).
+Desktop is 2560 x 1440 @ 144 Hz
+[Vulkan init] extensions: count=20
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+Vulkan detection: 2
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path /home/jflx/.local/share/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+[Vulkan init] extensions: count=20
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+[Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=(nil)
+[Vulkan init] Physical Device 0x12fb090 [0]: "AMD Radeon RX 5700 XT (RADV NAVI10)" deviceType=2 vendorID=1002 deviceID=731f
+[Vulkan init] Selected physical device 0x12fb090
+[Vulkan init] Graphics queue count=1
+[Vulkan init] extensions: count=146
+[Vulkan init] extensions: name=VK_KHR_8bit_storage, enabled=0
+[Vulkan init] extensions: name=VK_KHR_16bit_storage, enabled=0
+[Vulkan init] extensions: name=VK_KHR_bind_memory2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_buffer_device_address, enabled=0
+[Vulkan init] extensions: name=VK_KHR_copy_commands2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_create_renderpass2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_dedicated_allocation, enabled=1
+[Vulkan init] extensions: name=VK_KHR_deferred_host_operations, enabled=0
+[Vulkan init] extensions: name=VK_KHR_depth_stencil_resolve, enabled=1
+[Vulkan init] extensions: name=VK_KHR_descriptor_update_template, enabled=1
+[Vulkan init] extensions: name=VK_KHR_device_group, enabled=0
+[Vulkan init] extensions: name=VK_KHR_draw_indirect_count, enabled=0
+[Vulkan init] extensions: name=VK_KHR_driver_properties, enabled=0
+[Vulkan init] extensions: name=VK_KHR_dynamic_rendering, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_format_feature_flags2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_memory_requirements2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_global_priority, enabled=0
+[Vulkan init] extensions: name=VK_KHR_image_format_list, enabled=1
+[Vulkan init] extensions: name=VK_KHR_imageless_framebuffer, enabled=0
+[Vulkan init] extensions: name=VK_KHR_incremental_present, enabled=0
+[Vulkan init] extensions: name=VK_KHR_maintenance1, enabled=1
+[Vulkan init] extensions: name=VK_KHR_maintenance2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_maintenance3, enabled=0
+[Vulkan init] extensions: name=VK_KHR_maintenance4, enabled=0
+[Vulkan init] extensions: name=VK_KHR_multiview, enabled=1
+[Vulkan init] extensions: name=VK_KHR_pipeline_executable_properties, enabled=0
+[Vulkan init] extensions: name=VK_KHR_pipeline_library, enabled=0
+[Vulkan init] extensions: name=VK_KHR_push_descriptor, enabled=0
+[Vulkan init] extensions: name=VK_KHR_relaxed_block_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_sampler_mirror_clamp_to_edge, enabled=1
+[Vulkan init] extensions: name=VK_KHR_sampler_ycbcr_conversion, enabled=0
+[Vulkan init] extensions: name=VK_KHR_separate_depth_stencil_layouts, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_atomic_int64, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_clock, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_draw_parameters, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_float16_int8, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_float_controls, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_integer_dot_product, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_non_semantic_info, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_extended_types, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_uniform_control_flow, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_terminate_invocation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_spirv_1_4, enabled=0
+[Vulkan init] extensions: name=VK_KHR_storage_buffer_storage_class, enabled=0
+[Vulkan init] extensions: name=VK_KHR_swapchain, enabled=1
+[Vulkan init] extensions: name=VK_KHR_swapchain_mutable_format, enabled=0
+[Vulkan init] extensions: name=VK_KHR_synchronization2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_timeline_semaphore, enabled=0
+[Vulkan init] extensions: name=VK_KHR_uniform_buffer_standard_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_variable_pointers, enabled=0
+[Vulkan init] extensions: name=VK_KHR_vulkan_memory_model, enabled=0
+[Vulkan init] extensions: name=VK_KHR_workgroup_memory_explicit_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_zero_initialize_workgroup_memory, enabled=0
+[Vulkan init] extensions: name=VK_EXT_4444_formats, enabled=0
+[Vulkan init] extensions: name=VK_EXT_attachment_feedback_loop_layout, enabled=0
+[Vulkan init] extensions: name=VK_EXT_border_color_swizzle, enabled=0
+[Vulkan init] extensions: name=VK_EXT_buffer_device_address, enabled=0
+[Vulkan init] extensions: name=VK_EXT_calibrated_timestamps, enabled=0
+[Vulkan init] extensions: name=VK_EXT_color_write_enable, enabled=0
+[Vulkan init] extensions: name=VK_EXT_conditional_rendering, enabled=0
+[Vulkan init] extensions: name=VK_EXT_conservative_rasterization, enabled=1
+[Vulkan init] extensions: name=VK_EXT_custom_border_color, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_clip_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_clip_enable, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_range_unrestricted, enabled=0
+[Vulkan init] extensions: name=VK_EXT_descriptor_indexing, enabled=0
+[Vulkan init] extensions: name=VK_EXT_discard_rectangles, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state3, enabled=0
+[Vulkan init] extensions: name=VK_EXT_external_memory_dma_buf, enabled=0
+[Vulkan init] extensions: name=VK_EXT_external_memory_host, enabled=0
+[Vulkan init] extensions: name=VK_EXT_global_priority, enabled=0
+[Vulkan init] extensions: name=VK_EXT_global_priority_query, enabled=0
+[Vulkan init] extensions: name=VK_EXT_host_query_reset, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_2d_view_of_3d, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_drm_format_modifier, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_robustness, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_view_min_lod, enabled=0
+[Vulkan init] extensions: name=VK_EXT_index_type_uint8, enabled=0
+[Vulkan init] extensions: name=VK_EXT_inline_uniform_block, enabled=0
+[Vulkan init] extensions: name=VK_EXT_line_rasterization, enabled=0
+[Vulkan init] extensions: name=VK_EXT_load_store_op_none, enabled=0
+[Vulkan init] extensions: name=VK_EXT_memory_budget, enabled=0
+[Vulkan init] extensions: name=VK_EXT_memory_priority, enabled=0
+[Vulkan init] extensions: name=VK_EXT_multi_draw, enabled=0
+[Vulkan init] extensions: name=VK_EXT_mutable_descriptor_type, enabled=0
+[Vulkan init] extensions: name=VK_EXT_non_seamless_cube_map, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pci_bus_info, enabled=0
+[Vulkan init] extensions: name=VK_EXT_physical_device_drm, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_cache_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_feedback, enabled=0
+[Vulkan init] extensions: name=VK_EXT_post_depth_coverage, enabled=0
+[Vulkan init] extensions: name=VK_EXT_primitive_topology_list_restart, enabled=0
+[Vulkan init] extensions: name=VK_EXT_primitives_generated_query, enabled=0
+[Vulkan init] extensions: name=VK_EXT_private_data, enabled=0
+[Vulkan init] extensions: name=VK_EXT_provoking_vertex, enabled=0
+[Vulkan init] extensions: name=VK_EXT_queue_family_foreign, enabled=0
+[Vulkan init] extensions: name=VK_EXT_robustness2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_sampler_filter_minmax, enabled=0
+[Vulkan init] extensions: name=VK_EXT_scalar_block_layout, enabled=0
+[Vulkan init] extensions: name=VK_EXT_separate_stencil_usage, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_atomic_float, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_atomic_float2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_demote_to_helper_invocation, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_image_atomic_int64, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_module_identifier, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_stencil_export, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_ballot, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_vote, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_viewport_index_layer, enabled=1
+[Vulkan init] extensions: name=VK_EXT_subgroup_size_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_texel_buffer_alignment, enabled=0
+[Vulkan init] extensions: name=VK_EXT_transform_feedback, enabled=0
+[Vulkan init] extensions: name=VK_EXT_vertex_attribute_divisor, enabled=0
+[Vulkan init] extensions: name=VK_EXT_vertex_input_dynamic_state, enabled=0
+[Vulkan init] extensions: name=VK_EXT_ycbcr_image_arrays, enabled=0
+[Vulkan init] extensions: name=VK_AMD_buffer_marker, enabled=0
+[Vulkan init] extensions: name=VK_AMD_device_coherent_memory, enabled=0
+[Vulkan init] extensions: name=VK_AMD_draw_indirect_count, enabled=0
+[Vulkan init] extensions: name=VK_AMD_gcn_shader, enabled=0
+[Vulkan init] extensions: name=VK_AMD_gpu_shader_half_float, enabled=0
+[Vulkan init] extensions: name=VK_AMD_gpu_shader_int16, enabled=0
+[Vulkan init] extensions: name=VK_AMD_memory_overallocation_behavior, enabled=0
+[Vulkan init] extensions: name=VK_AMD_mixed_attachment_samples, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_ballot, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_core_properties, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_core_properties2, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_explicit_vertex_parameter, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_fragment_mask, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_image_load_store_lod, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_trinary_minmax, enabled=0
+[Vulkan init] extensions: name=VK_AMD_texture_gather_bias_lod, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_decorate_string, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_hlsl_functionality1, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_user_type, enabled=0
+[Vulkan init] extensions: name=VK_INTEL_shader_integer_functions2, enabled=0
+[Vulkan init] extensions: name=VK_NV_compute_shader_derivatives, enabled=0
+[Vulkan init] extensions: name=VK_VALVE_mutable_descriptor_type, enabled=0
+Fossilize INFO: Overriding serialization path: "/home/jflx/.local/share/Steam/steamapps/shadercache/892970/fozpipelinesv6/steamapprun_pipeline_cache".
+Vulkan API version 1.1.0 (1.3.230 supported by driver, 1.1.0 requested)
+Vulkan vendor=[ATI] id=[1002]
+Vulkan renderer=[AMD Radeon RX 5700 XT (RADV NAVI10)] id=[731f]
+Vulkan device type 2
+Vulkan driverversion=[0x05803004] uint=[92286980]
+Vulkan PSO: Cache data successfully loaded [size=789232,path=/tmp/IronGate/Valheim/vulkan_pso_cache.bin]
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.060 seconds
+requesting resize 2560 x 1371
+resizing window to 2560 x 1371
+Desktop is 2560 x 1440 @ 144 Hz
+InitializeOrResetSwapChain 2560x1371 hdr=0 samples=1
+UnloadTime: 0.472481 ms
+02/10/2023 12:20:29: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.276092 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+02/10/2023 12:20:30: Using environment steamid 892970
+02/10/2023 12:20:30: Using steam APPID:892970
+[S_API] SteamAPI_Init(): Loaded '/home/jflx/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 892970
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198000930043 [API loaded no]
+02/10/2023 12:20:30: Authentication:k_ESteamNetworkingAvailability_Attempting
+02/10/2023 12:20:30: Steam initialized, persona:Kranken
+02/10/2023 12:20:30: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 12:20:30: Using default prefs
+02/10/2023 12:20:30: Valheim version:0.213.4
+02/10/2023 12:20:30: Worldgenerator version setup:2
+02/10/2023 12:20:30: Render threading mode:MultiThreaded
+02/10/2023 12:20:30: Missing audio clip in music respawn
+02/10/2023 12:20:30: Checking for installed DLCs
+02/10/2023 12:20:30: DLC:beta installed:False
+02/10/2023 12:20:30: Builder started
+02/10/2023 12:20:31: Loaded localization CSV:localization language:English
+02/10/2023 12:20:31: Loaded localization CSV:localization_extra language:English
+02/10/2023 12:20:31: Loaded localization CSV:localization language:English
+02/10/2023 12:20:31: Loaded localization CSV:localization_extra language:English
+02/10/2023 12:20:31: Sending PlayFab login request (attempt 1)
+02/10/2023 12:20:31: Ticket is System.Byte[] of length 369
+02/10/2023 12:20:31: Session auth respons callback
+02/10/2023 12:20:31: Starting music menu
+02/10/2023 12:20:31: UI Group status changed Menu = True
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 137704.
+Total: 59.866998 ms (FindLiveObjects: 5.086872 ms CreateObjectMapping: 9.029215 ms MarkObjects: 45.503131 ms  DeleteObjects: 0.247290 ms)
+
+02/10/2023 12:20:32: PlayFab logged in as "Steam_76561198000930043"
+02/10/2023 12:20:32: PlayFab local entity ID is 4945A74DC9BC2A9D
+02/10/2023 12:20:33: UI Group status changed Menu = True
+02/10/2023 12:20:37: FOund selected Start game
+02/10/2023 12:20:37: show character selection
+02/10/2023 12:20:38: OnCharacterStart
+02/10/2023 12:20:38: UI Group status changed Panel = False
+02/10/2023 12:20:40: FOund selected Cancel
+02/10/2023 12:20:40: UI Group status changed Panel = True
+02/10/2023 12:20:42: PlayFab lobby matching search filter 'string_key1 eq '4450E71C792A042C' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 12:20:44: PlayFab lobby matching search filter 'string_key1 eq '2D65A9925CEF7103' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 12:20:45: Added server with name Nullables Valheim to server list
+02/10/2023 12:20:46: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:47: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:47: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:47: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:47: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:48: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:48: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:48: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:48: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:49: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:49: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:49: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:49: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:50: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 12:20:50: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 2
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 12:20:50: Determined backend of dedicated server to be PlayFab
+02/10/2023 12:20:50: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 12:20:50: Cloud Save: 196 bytes. /serverlist/favorite.new
+02/10/2023 12:20:50: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 12:20:50: Steam Cloud Move: 196 bytes. /serverlist/favorite -> /serverlist/favorite.old
+02/10/2023 12:20:50: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 12:20:50: Steam Cloud Move: 196 bytes. /serverlist/favorite.new -> /serverlist/favorite
+02/10/2023 12:20:50: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 12:20:50: Cloud Save: 196 bytes. /serverlist/recent.new
+02/10/2023 12:20:50: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 12:20:50: Steam Cloud Move: 196 bytes. /serverlist/recent -> /serverlist/recent.old
+02/10/2023 12:20:50: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 12:20:50: Steam Cloud Move: 196 bytes. /serverlist/recent.new -> /serverlist/recent
+02/10/2023 12:20:50: Steam writing file chunks 1 / 1, (196 bytes)
+UnloadTime: 152.641523 ms
+02/10/2023 12:20:50: Steam initialized, persona:Kranken
+02/10/2023 12:20:50: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 12:20:50: Using default prefs
+02/10/2023 12:20:50: Loading player profile oogabooga
+02/10/2023 12:20:50: isModded: False
+02/10/2023 12:20:50: Zonesystem Awake 1101
+02/10/2023 12:20:50: DungeonDB Awake 1101
+02/10/2023 12:20:50: Steam initialized, persona:Kranken
+02/10/2023 12:20:50: Audioman already exist, destroying self
+02/10/2023 12:20:50: Checking for installed DLCs
+02/10/2023 12:20:50: DLC:beta installed:False
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 141513.
+Total: 64.123901 ms (FindLiveObjects: 5.202402 ms CreateObjectMapping: 8.580605 ms MarkObjects: 49.106083 ms  DeleteObjects: 1.234131 ms)
+
+02/10/2023 12:20:54: Zonesystem Start 1101
+02/10/2023 12:20:55: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+02/10/2023 12:20:55: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+02/10/2023 12:20:55: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+02/10/2023 12:20:55: DungeonDB Start 1101
+02/10/2023 12:20:55: ZRpc timeout set to 30s 
+02/10/2023 12:20:55: Connecting to server with PlayFab-backend FCFBCCA58F1FA61
+02/10/2023 12:20:55: PlayFab socket with remote ID FCFBCCA58F1FA61 sent local Platform ID Steam_76561198000930043
+02/10/2023 12:20:55: Session auth respons callback
+02/10/2023 12:21:00: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 2
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 12:21:00: Joining server 'Nullables Valheim' at PlayFab network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ== from lobby f1ee176b-c21f-405c-aee5-356b60d028eb
+02/10/2023 12:21:02: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 12:21:02: ZRpc timeout set to 90s 
+02/10/2023 12:21:02: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 12:21:02: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 12:21:05: VERSION check their:0.213.4  mine:0.213.4
+02/10/2023 12:21:05: Worldgenerator version setup:2
+02/10/2023 12:21:07: Session auth respons callback
+02/10/2023 12:21:13: Unpacking compressed mapdata 8553
+02/10/2023 12:21:13: Starting respawn
+02/10/2023 12:21:13: client got keys 1
+02/10/2023 12:21:13: client got location icons
+02/10/2023 12:21:13: Icons:1
+02/10/2023 12:21:13: tip:$loadscreen_tip13
+02/10/2023 12:21:21: Spawned after 8.019994
+02/10/2023 12:21:21: Skipping unloading unused assets
+02/10/2023 12:21:21: Minimap: Adding unique location (-124.0, 76.5, -253.3)
+02/10/2023 12:21:23: Starting music meadows
+02/10/2023 12:21:23: Resumed music meadows at 0
+02/10/2023 12:21:26: UI Group status changed MenuRoot = False
+02/10/2023 12:21:27: Game - OnApplicationQuit
+02/10/2023 12:21:27: Shuting down
+02/10/2023 12:21:27: Uncompressed size 8388890
+02/10/2023 12:21:27: Compressed size 8553
+02/10/2023 12:21:27: Cloud Save: 28879 bytes. /characters/oogabooga.fch.new
+02/10/2023 12:21:27: Steam writing file chunks 1 / 1, (28879 bytes)
+02/10/2023 12:21:27: Steam Cloud Move: 28879 bytes. /characters/oogabooga.fch -> /characters/oogabooga.fch.old
+02/10/2023 12:21:27: Steam writing file chunks 1 / 1, (28879 bytes)
+02/10/2023 12:21:27: Steam Cloud Move: 28879 bytes. /characters/oogabooga.fch.new -> /characters/oogabooga.fch
+02/10/2023 12:21:27: Steam writing file chunks 1 / 1, (28879 bytes)
+02/10/2023 12:21:27: Considering autobackup. World time: 23.94, short time: 7200, long time: 43200, backup count: 4
+02/10/2023 12:21:27: Skipping backup. World session not long enough.
+02/10/2023 12:21:27: ZNet Shutdown
+You need to connect to a network before you can call this method.
+02/10/2023 12:21:27: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+02/10/2023 12:21:27: Unloading unused assets
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 12:21:27: Sending disconnect msg
+02/10/2023 12:21:27: Sent to playfab/FCFBCCA58F1FA61
+02/10/2023 12:21:27: Released session ticket
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1942560.
+Total: 471.914435 ms (FindLiveObjects: 90.354613 ms CreateObjectMapping: 28.469733 ms MarkObjects: 350.562368 ms  DeleteObjects: 2.526661 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 7f1d260ad6c0 -> priority: 1 
+  Thread -> id: 7f1d250ab6c0 -> priority: 1 
+  Thread -> id: 7f1d248aa6c0 -> priority: 1 
+  Thread -> id: 7f1c38ff86c0 -> priority: 1 
+  Thread -> id: 7f1c387f76c0 -> priority: 1 
+  Thread -> id: 7f1c37ff66c0 -> priority: 1 
+02/10/2023 12:21:30: FOund selected Button_yes
+02/10/2023 12:21:30: ZNet OnDestroy
+02/10/2023 12:21:30: Net scene destroyed
+02/10/2023 12:21:31: Local player destroyed
+02/10/2023 12:21:31: Steam manager on destroy
+Vulkan PSO: data extracted [new size=926208, old size=789232, incomplete=0]
+Vulkan PSO: Saved size[926208] path[/tmp/IronGate/Valheim/vulkan_pso_cache.bin] success=1 headerChanged=0 sizeChanged=1

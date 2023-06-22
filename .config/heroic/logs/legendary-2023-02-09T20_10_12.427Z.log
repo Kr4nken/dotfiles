@@ -1,0 +1,168 @@
+[2/9/2023, 9:10:12 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.32", codename "Dark Energy (hotfix #6)"
+[2/9/2023, 9:10:13 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+[cli] INFO: Cleanup complete! Removed 0.00 MiB.
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[2/9/2023, 9:12:45 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Successfully logged in as "real_Kranken"
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[EPCAPI] ERROR: Login to EGS API failed with errorCode: errors.com.epicgames.account.oauth.authorization_code_not_found
+[Core] ERROR: Logging in failed with InvalidCredentialsError('errors.com.epicgames.account.oauth.authorization_code_not_found'), please try again.
+[cli] ERROR: Login attempt failed, please see log for details.
+[2/9/2023, 9:12:47 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[2/9/2023, 9:12:47 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[2/9/2023, 9:12:47 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[2/9/2023, 9:12:47 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+[cli] INFO: Getting game list... (this may take a while)
+[cli] INFO: Getting game list... (this may take a while)
+[cli] INFO: Getting game list... (this may take a while)
+[Core] INFO: Fetching metadata for 11 app(s).
+[Core] INFO: Fetching metadata for 11 app(s).
+[Core] INFO: Fetching metadata for 11 app(s).
+[Core] INFO: Fetching metadata for 11 app(s).
+
+Available games:
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.0-f4)
+ * Dauntless (App name: Jackal | Version: 1.13.1.423746)
+ * Diabotical (App name: Honeycreeper | Version: 0.20.471)
+ * Faeria (App name: Vulture | Version: 0.20.3(Win))
+ * Offworld Trading Company (App name: Snapper | Version: 248)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rocket League® (App name: Sugar | Version: BC2_Update40.1+411503c)
+ * Satisfactory Early Access (App name: CrabEA | Version: 211839.204)
+ * Satisfactory Experimental (App name: CrabTest | Version: 211839.204)
+ * World War Z (App name: Wombat | Version: 2.14)
+
+Total: 11
+
+Available games:
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.0-f4)
+ * Dauntless (App name: Jackal | Version: 1.13.1.423746)
+ * Diabotical (App name: Honeycreeper | Version: 0.20.471)
+ * Faeria (App name: Vulture | Version: 0.20.3(Win))
+ * Offworld Trading Company (App name: Snapper | Version: 248)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rocket League® (App name: Sugar | Version: BC2_Update40.1+411503c)
+ * Satisfactory Early Access (App name: CrabEA | Version: 211839.204)
+ * Satisfactory Experimental (App name: CrabTest | Version: 211839.204)
+ * World War Z (App name: Wombat | Version: 2.14)
+
+Total: 11
+
+Available games:
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.0-f4)
+ * Dauntless (App name: Jackal | Version: 1.13.1.423746)
+ * Diabotical (App name: Honeycreeper | Version: 0.20.471)
+ * Faeria (App name: Vulture | Version: 0.20.3(Win))
+ * Offworld Trading Company (App name: Snapper | Version: 248)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rocket League® (App name: Sugar | Version: BC2_Update40.1+411503c)
+ * Satisfactory Early Access (App name: CrabEA | Version: 211839.204)
+ * Satisfactory Experimental (App name: CrabTest | Version: 211839.204)
+ * World War Z (App name: Wombat | Version: 2.14)
+
+Total: 11
+
+Available games:
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.0-f4)
+ * Dauntless (App name: Jackal | Version: 1.13.1.423746)
+ * Diabotical (App name: Honeycreeper | Version: 0.20.471)
+ * Faeria (App name: Vulture | Version: 0.20.3(Win))
+ * Offworld Trading Company (App name: Snapper | Version: 248)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rocket League® (App name: Sugar | Version: BC2_Update40.1+411503c)
+ * Satisfactory Early Access (App name: CrabEA | Version: 211839.204)
+ * Satisfactory Experimental (App name: CrabTest | Version: 211839.204)
+ * World War Z (App name: Wombat | Version: 2.14)
+
+Total: 11
+[2/9/2023, 9:12:52 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * Borderlands 3 (App name: Catnip | Version: 1.0.23_CL_2860060_Borderlands_3)
+ * Cities Skylines (App name: bcbc03d8812a44c18f41cf7d5f849265 | Version: 1.16.0-f4)
+ * Dauntless (App name: Jackal | Version: 1.13.1.423746)
+ * Diabotical (App name: Honeycreeper | Version: 0.20.471)
+ * Faeria (App name: Vulture | Version: 0.20.3(Win))
+ * Offworld Trading Company (App name: Snapper | Version: 248)
+ * Rage 2 (App name: ad3d0f08dd0841d8a1ba77d94ded4773 | Version: 1.8)
+ * Rocket League® (App name: Sugar | Version: BC2_Update40.1+411503c)
+ * Satisfactory Early Access (App name: CrabEA | Version: 211839.204)
+ * Satisfactory Experimental (App name: CrabTest | Version: 211839.204)
+ * World War Z (App name: Wombat | Version: 2.14)
+
+Total: 11
+[2/9/2023, 9:12:57 PM] /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Honeycreeper --platform Windows --json
+[Core] INFO: Trying to re-use existing login session...
+[Core] WARNING: Unable to download manifest from "download.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download2.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download3.epicgames.com" (status: 403), trying next URL...
+[Core] WARNING: Unable to download manifest from "download4.epicgames.com" (status: 403), trying next URL...
+{"game": {"app_name": "Honeycreeper", "title": "Diabotical", "version": "0.20.471", "platform_versions": {"Windows": "0.20.471"}, "cloud_saves_supported": true, "cloud_save_folder": "{AppData}/../Roaming/Diabotical/CloudSave/", "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "owned_dlc": [{"app_name": null, "title": "Fan pack Audience", "installable": null, "id": "37afb12542de456292c9ff075675eaa9"}, {"app_name": null, "title": "Big Pack Audience", "installable": null, "id": "80b6fecd8e984213914a708628eee6e5"}, {"app_name": null, "title": "Standard Pack Audience", "installable": null, "id": "a8fe3511c7e14a2c88e8058634f7286c"}, {"app_name": null, "title": "Starter Pack Audience", "installable": null, "id": "eea24f16f3804983825ad91e33e85c6b"}]}, "install": null, "manifest": {"size": 1485913, "type": "binary", "version": 17, "feature_level": 17, "app_name": "Honeycreeper", "launch_exe": "Diabotical-Launcher.exe", "launch_command": "", "build_version": "0.20.471", "build_id": "9t_rZFqDoJWcVRWC6JTVbmBhRpE", "prerequisites": null, "install_tags": [""], "num_files": 13020, "num_chunks": 15765, "disk_size": 18005002355, "download_size": 8202231341, "tag_disk_size": [], "tag_download_size": []}}

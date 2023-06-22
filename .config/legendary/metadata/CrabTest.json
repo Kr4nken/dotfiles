@@ -1,0 +1,121 @@
+{
+  "app_name": "CrabTest",
+  "app_title": "Satisfactory Experimental",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "CrabTest",
+      "asset_id": "CrabTest",
+      "build_version": "211839.204",
+      "catalog_item_id": "ef4a63daa7d4420e91420a72050be89d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "crab"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-04-03T20:31:28.361Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/FactoryGame/Saved/SaveGames/{EpicID}/"
+      },
+      "DisablePresenceWhileRunning": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SatisfactoryExperimental"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "30000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "crab"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Satisfactory Experimental",
+    "developer": "Coffee Stain Publishing",
+    "developerId": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+    "endOfSupport": false,
+    "entitlementName": "ef4a63daa7d4420e91420a72050be89d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ef4a63daa7d4420e91420a72050be89d",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "bbca71b28786d26e91f29f1c3649a781",
+        "size": 4529832,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-14T21:07:56.698Z",
+        "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_2560x1440_Logo_2560x1440-bbca71b28786d26e91f29f1c3649a781",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "ed7f1a9f8a59acbfaba61af7accc0a4b",
+        "size": 2207586,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-14T21:08:00.721Z",
+        "url": "https://cdn1.epicgames.com/item/crab/U7_Epic_1200x1600_Logo_1200x1600-ed7f1a9f8a59acbfaba61af7accc0a4b",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-15T21:11:51.270Z",
+    "namespace": "crab",
+    "releaseInfo": [
+      {
+        "appId": "CrabTest",
+        "compatibleApps": [],
+        "dateAdded": "2019-04-03T00:00:00.000Z",
+        "id": "4fbc452cdaf8447597ccd4424a64b58a",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Satisfactory Experimental",
+    "unsearchable": false
+  }
+}

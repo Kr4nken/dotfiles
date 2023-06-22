@@ -1,0 +1,109 @@
+{
+  "Windows": [
+    {
+      "app_name": "ad3d0f08dd0841d8a1ba77d94ded4773",
+      "asset_id": "ad3d0f08dd0841d8a1ba77d94ded4773",
+      "build_version": "1.8",
+      "catalog_item_id": "da3d0706de4b4d39b943abcf96389ce3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b"
+    },
+    {
+      "app_name": "Honeycreeper",
+      "asset_id": "Honeycreeper",
+      "build_version": "0.20.471",
+      "catalog_item_id": "143a549f67034d079e14dca66c0d05b3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "36336ee97ec543bbae85abaca618182b"
+    },
+    {
+      "app_name": "bcbc03d8812a44c18f41cf7d5f849265",
+      "asset_id": "bcbc03d8812a44c18f41cf7d5f849265",
+      "build_version": "1.16.0-f4",
+      "catalog_item_id": "ee3c9b2831cf4e8c9a6dc407bcb2890a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "042f5718159b487c8649d5dfcb19dea3"
+      },
+      "namespace": "6009be9994c2409099588cde6f3a5ed0"
+    },
+    {
+      "app_name": "Sugar",
+      "asset_id": "Sugar",
+      "build_version": "BC2_Update40.1+411503c",
+      "catalog_item_id": "530145df28a24424923f5828cc9031a1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9773aa1aa54f4f7b80e44bef04986cea"
+    },
+    {
+      "app_name": "Catnip",
+      "asset_id": "Catnip",
+      "build_version": "1.0.23_CL_2860060_Borderlands_3",
+      "catalog_item_id": "5cf86732e2744fec98a1c8a077d9f3a8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4038efbb2b6d4f43b191cd1782f53076"
+      },
+      "namespace": "catnip"
+    },
+    {
+      "app_name": "CrabEA",
+      "asset_id": "CrabEA",
+      "build_version": "211839.204",
+      "catalog_item_id": "b915dfe8dcf74770841c82a4162dc954",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "crab"
+    },
+    {
+      "app_name": "CrabTest",
+      "asset_id": "CrabTest",
+      "build_version": "211839.204",
+      "catalog_item_id": "ef4a63daa7d4420e91420a72050be89d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "crab"
+    },
+    {
+      "app_name": "Snapper",
+      "asset_id": "Snapper",
+      "build_version": "248",
+      "catalog_item_id": "10eeeb5bec7e442ba1ced3717a9c25bf",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "51617d3aae5144018b8d44e0f5ae9b54"
+      },
+      "namespace": "e8882546f28e4832af823c646aed232e"
+    },
+    {
+      "app_name": "Vulture",
+      "asset_id": "Vulture",
+      "build_version": "0.20.3(Win)",
+      "catalog_item_id": "989914828a72490c864854c579546222",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09"
+    },
+    {
+      "app_name": "Jackal",
+      "asset_id": "Jackal",
+      "build_version": "1.13.1.423746",
+      "catalog_item_id": "2f415248cb524eaf950a16e55d315dac",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "jackal"
+    },
+    {
+      "app_name": "Wombat",
+      "asset_id": "Wombat",
+      "build_version": "2.14",
+      "catalog_item_id": "ec6ed5344a904ea78729113d80818d18",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "wombat"
+    }
+  ]
+}

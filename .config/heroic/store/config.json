@@ -1,0 +1,51 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/jflx/.config/heroic/logs/heroic-2023-02-09T20_10_12.427Z.log",
+		"lastLogFile": "",
+		"legendaryLogFile": "/home/jflx/.config/heroic/logs/legendary-2023-02-09T20_10_12.427Z.log",
+		"gogdlLogFile": "/home/jflx/.config/heroic/logs/gogdl-2023-02-09T20_10_12.427Z.log"
+	},
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/jflx/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/jflx/.steam/steam",
+		"defaultWinePrefix": "/home/jflx/Games/Heroic/Prefixes",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"userInfo": {
+			"name": "jflx"
+		},
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/jflx/.wine",
+		"wineVersion": {
+			"bin": "",
+			"name": "Default Wine - Not Found",
+			"type": "wine"
+		}
+	},
+	"userHome": "/home/jflx",
+	"language": "en",
+	"userInfo": {
+		"account_id": "512b24a4e9bd45409e424e2070bddd60",
+		"displayName": "real_Kranken",
+		"user": "jflx"
+	}
+}

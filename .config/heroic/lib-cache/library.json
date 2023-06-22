@@ -1,0 +1,324 @@
+{
+	"library": [
+		{
+			"app_name": "Catnip",
+			"art_cover": "https://cdn1.epicgames.com/catnip/item/BL3Wide_2560x1440-2560x1440-462318f36bee20de4412e111ef72dc62.jpg",
+			"art_square": "https://cdn1.epicgames.com/catnip/item/BL3Tall_1200x1440-1200x1440-c1200ae70b5e054025e296746d1987a8.jpg",
+			"cloud_save_enabled": true,
+			"developer": "2K Games, Inc.",
+			"extra": {
+				"about": {
+					"description": "Borderlands 3",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/borderlands-3"
+			},
+			"folder_name": "Borderlands3",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "catnip",
+			"is_mac_native": true,
+			"save_folder": "{UserDir}/My Games/Borderlands 3/Saved/SaveGames/{EpicID}/",
+			"title": "Borderlands 3",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/borderlands-3"
+		},
+		{
+			"app_name": "CrabEA",
+			"art_cover": "https://cdn1.epicgames.com/item/crab/U7_Epic_2560x1440_Logo_2560x1440-bbca71b28786d26e91f29f1c3649a781",
+			"art_square": "https://cdn1.epicgames.com/item/crab/U7_Epic_1200x1600_Logo_1200x1600-ed7f1a9f8a59acbfaba61af7accc0a4b",
+			"cloud_save_enabled": true,
+			"developer": "Coffee Stain Publishing",
+			"extra": {
+				"about": {
+					"description": "Satisfactory Early Access",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/satisfactory-early-access"
+			},
+			"folder_name": "SatisfactoryEarlyAccess",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "crab",
+			"is_mac_native": false,
+			"save_folder": "{AppData}/FactoryGame/Saved/SaveGames/{EpicID}/",
+			"title": "Satisfactory Early Access",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/satisfactory-early-access"
+		},
+		{
+			"app_name": "CrabTest",
+			"art_cover": "https://cdn1.epicgames.com/item/crab/U7_Epic_2560x1440_Logo_2560x1440-bbca71b28786d26e91f29f1c3649a781",
+			"art_square": "https://cdn1.epicgames.com/item/crab/U7_Epic_1200x1600_Logo_1200x1600-ed7f1a9f8a59acbfaba61af7accc0a4b",
+			"cloud_save_enabled": true,
+			"developer": "Coffee Stain Publishing",
+			"extra": {
+				"about": {
+					"description": "Satisfactory Experimental",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/satisfactory-experimental"
+			},
+			"folder_name": "SatisfactoryExperimental",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "crab",
+			"is_mac_native": false,
+			"save_folder": "{AppData}/FactoryGame/Saved/SaveGames/{EpicID}/",
+			"title": "Satisfactory Experimental",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/satisfactory-experimental"
+		},
+		{
+			"app_name": "Honeycreeper",
+			"art_cover": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/item/Landscape Image 2560x1440 Logo-2560x1440-4f2f71f65fbcfd61bdf5e7f0f08ac497.png",
+			"art_square": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/item/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
+			"cloud_save_enabled": true,
+			"developer": "The GD Studio",
+			"extra": {
+				"about": {
+					"description": "Diabotical",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/diabotical"
+			},
+			"folder_name": "Diabotical",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "36336ee97ec543bbae85abaca618182b",
+			"is_mac_native": false,
+			"save_folder": "{AppData}/../Roaming/Diabotical/CloudSave/",
+			"title": "Diabotical",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/diabotical"
+		},
+		{
+			"app_name": "Jackal",
+			"art_cover": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-160c0e7e1d166bfa1b83f21facdec8fb",
+			"art_square": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-04375b45d081769fa3ee6c89417120b7",
+			"cloud_save_enabled": false,
+			"developer": "Phoenix Labs",
+			"extra": {
+				"about": {
+					"description": "Dauntless",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/dauntless"
+			},
+			"folder_name": "Dauntless",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "jackal",
+			"is_mac_native": false,
+			"save_folder": "",
+			"title": "Dauntless",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/dauntless"
+		},
+		{
+			"app_name": "Snapper",
+			"art_cover": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/Diesel_productv2_offworld-trading-company_home_EGS_MohawkGames_OffworldTradingCompany_S1-2560x1440-836395b78496a58a1e2b2ce21f9084a0.jpg",
+			"art_square": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_MohawkGames_OffworldTradingCompany_Portrait-510x680-7a9909ce27ac1d94813f6f49f6632871.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Stardock Entertainment, Inc",
+			"extra": {
+				"about": {
+					"description": "Offworld Trading Company",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/offworld-trading-company"
+			},
+			"folder_name": "OffworldTradingCompany",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "e8882546f28e4832af823c646aed232e",
+			"is_mac_native": false,
+			"save_folder": "",
+			"title": "Offworld Trading Company",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/offworld-trading-company"
+		},
+		{
+			"app_name": "Sugar",
+			"art_cover": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/s9_landscape_2560x1440-6cc4593289682f69bfef58cc270b6ab6",
+			"art_square": "https://cdn1.epicgames.com/item/9773aa1aa54f4f7b80e44bef04986cea/S9_1200x1600-c1bc7211d9e671d7384e2f0247f0f77a",
+			"cloud_save_enabled": false,
+			"developer": "Psyonix LLC",
+			"extra": {
+				"about": {
+					"description": "Rocket League®",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/rocket-league"
+			},
+			"folder_name": "rocketleague",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+			"is_mac_native": false,
+			"save_folder": "",
+			"title": "Rocket League®",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/rocket-league"
+		},
+		{
+			"app_name": "Vulture",
+			"art_cover": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/Faeria_MainGame_EpicGamesStore_L1_Library_Primary_ApprovedPublic-2560x1440-1b4f63bca1383c9645af8e9c9133db17.jpg",
+			"art_logo": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/Faeria_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-3731x1958-c0897bee240ecb7592f510b1d01f58c0.png",
+			"art_square": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/item/Faeria_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-2d7d8a3857de45746e2d8e47c90cac5e.jpg",
+			"cloud_save_enabled": false,
+			"developer": "Abrakam",
+			"extra": {
+				"about": {
+					"description": "Faeria",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/faeria"
+			},
+			"folder_name": "Faeria",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "f9c2aedaff8442b286fbd026948b9f09",
+			"is_mac_native": true,
+			"save_folder": "",
+			"title": "Faeria",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/faeria"
+		},
+		{
+			"app_name": "Wombat",
+			"art_cover": "https://cdn1.epicgames.com/item/wombat/WWZ-GOTY-Edition_EpicGames_LandscapeImage_2560x1440_2560x1440-4527640f57b5a7685c4a76b8dd0d301b",
+			"art_square": "https://cdn1.epicgames.com/item/wombat/WWZ-GOTY-Edition_EpicGames_PortraitImage_1200x1600_1200x1600-37161676b99adad349b477e5ebddada3",
+			"cloud_save_enabled": true,
+			"developer": "Saber Interactive",
+			"extra": {
+				"about": {
+					"description": "World War Z",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/world-war-z"
+			},
+			"folder_name": "WorldWarZ",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "wombat",
+			"is_mac_native": false,
+			"save_folder": "{AppData}/Saber/WWZ/client/storage/{EpicID}/",
+			"title": "World War Z",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/world-war-z"
+		},
+		{
+			"app_name": "ad3d0f08dd0841d8a1ba77d94ded4773",
+			"art_cover": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s1-2560x1440-6c0e47266975-2560x1440-17dce1a4b7078e52a2d710deb8f23a63.jpg",
+			"art_square": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Bethesda Softworks LLC",
+			"extra": {
+				"about": {
+					"description": "Rage 2",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/rage-2"
+			},
+			"folder_name": "Rage2",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+			"is_mac_native": false,
+			"save_folder": "{UserSavedGames}/id Software/Rage 2/Saves/",
+			"title": "Rage 2",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/rage-2"
+		},
+		{
+			"app_name": "bcbc03d8812a44c18f41cf7d5f849265",
+			"art_cover": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/item/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg",
+			"art_square": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/item/EGS_CitiesSkylines_ColossalOrder_S2-1200x1600-753257537706de74735d2bc3eb656b67.jpg",
+			"cloud_save_enabled": true,
+			"developer": "Paradox Interactive",
+			"extra": {
+				"about": {
+					"description": "Cities Skylines",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/cities-skylines"
+			},
+			"folder_name": "CitiesSkylines",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "6009be9994c2409099588cde6f3a5ed0",
+			"is_mac_native": false,
+			"save_folder": "{AppData}/Colossal Order/Cities_Skylines/Saves/",
+			"title": "Cities Skylines",
+			"canRunOffline": true,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/cities-skylines"
+		}
+	]
+}

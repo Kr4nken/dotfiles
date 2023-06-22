@@ -1,0 +1,100 @@
+(21:10:12) INFO:    [Connection]:       Connectivity: check-online
+(21:10:12) INFO:    [Connection]:       Pinging external endpoints
+(21:10:12) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(21:10:12) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(21:10:12) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:10:12) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:10:12) WARNING: [Backend]:          Protocol already registered.
+(21:10:12) INFO:    [Connection]:       Connectivity: online
+(21:10:12) INFO:    [Backend]:          User Not Found, removing it from Store
+(21:10:12) INFO:    [Gog]:              Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(21:10:12) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(21:10:13) INFO:    [Backend]:          Loading Screen Ready
+(21:10:13) INFO:    [Backend]:          Frontend Ready
+(21:10:13) INFO:    [Backend]:          Checking for new Heroic Updates
+(21:10:13) INFO:    [Backend]:          
+
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: EndeavourOS KERNEL: 6.1.9-arch1-2 ARCH: x64
+CPU: AMD Ryzen 5 3600 6-Core Processor @3.6 GOVERNOR: schedutil
+RAM: Total: 7.68 GiB Available: 2.62 GiB
+GRAPHICS: GPU0: Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT] VRAM: 512MB  
+PROTOCOL: wayland
+
+(21:10:13) INFO:    [Backend]:          Checking for current version changelog
+(21:10:13) INFO:    [Frontend]:         Updated to a new version, cleaaning up the cache.
+(21:10:13) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+(21:10:15) INFO:    [Winetricks]:       Downloading Winetricks
+(21:10:15) INFO:    [DXVKInstaller]:    Updating dxvk to: dxvk-2.1
+(21:10:15) INFO:    [DXVKInstaller]:    Updating vkd3d to: vkd3d-proton-v2.8
+(21:10:18) INFO:    [Backend]:          Starting the Download Queue
+(21:10:18) INFO:    [DXVKInstaller]:    downloaded dxvk
+(21:10:18) INFO:    [DXVKInstaller]:    extracting dxvk
+(21:10:18) INFO:    [DXVKInstaller]:    dxvk updated!
+(21:10:18) INFO:    [DXVKInstaller]:    downloaded vkd3d
+(21:10:18) INFO:    [DXVKInstaller]:    extracting vkd3d
+(21:10:18) INFO:    [DXVKInstaller]:    vkd3d updated!
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:45) INFO:    [Legendary]:        Logging in: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:12:46) INFO:    [Frontend]:         Refreshing Library
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:46) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:46) INFO:    [Frontend]:         Refreshing Library
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:46) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:46) INFO:    [Frontend]:         Refreshing Library
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:46) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:46) INFO:    [Frontend]:         Refreshing Library
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:46) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(21:12:46) INFO:    [Legendary]:        Refreshing library...
+(21:12:46) INFO:    [Legendary]:        Game list updated, got 0 games & DLCs
+(21:12:47) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:12:47) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:12:47) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:12:47) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:12:52) INFO:    [Frontend]:         Refreshing Library
+(21:12:52) INFO:    [Legendary]:        Refreshing library...
+(21:12:52) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:12:52) INFO:    [Legendary]:        Game list updated, got 11 games & DLCs
+(21:12:52) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(21:12:52) INFO:    [Legendary]:        Refreshing library...
+(21:12:52) INFO:    [Legendary]:        Game list updated, got 11 games & DLCs
+(21:12:52) INFO:    [Frontend]:         Force Update
+(21:12:52) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:12:57) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:12:57) DEBUG:   [Backend]:          {"free":108101140480,"diskSize":235693375488,"message":"100.68 GiB / 219.51 GiB","validPath":true}
+(21:12:57) INFO:    [Legendary]:        Running command: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Honeycreeper --platform Windows --json
+(21:13:00) DEBUG:   [Backend]:          {"free":108101070848,"diskSize":235693375488,"message":"100.68 GiB / 219.51 GiB","validPath":true}

@@ -1,0 +1,1979 @@
+Mono path[0] = '/home/jflx/.local/share/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = '/home/jflx/.local/share/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/etc'
+Preloaded 'libparty.so'
+Preloaded 'libsteam_api.so'
+Display 0 'XWAYLAND0 32"': 2560x1440 (primary device).
+Desktop is 2560 x 1440 @ 144 Hz
+[Vulkan init] extensions: count=20
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+Vulkan detection: 2
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path /home/jflx/.local/share/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+[Vulkan init] extensions: count=20
+[Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_display, enabled=1
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities, enabled=0
+[Vulkan init] extensions: name=VK_KHR_wayland_surface, enabled=1
+[Vulkan init] extensions: name=VK_KHR_xcb_surface, enabled=0
+[Vulkan init] extensions: name=VK_KHR_xlib_surface, enabled=1
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_report, enabled=0
+[Vulkan init] extensions: name=VK_EXT_debug_utils, enabled=0
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter, enabled=0
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration, enabled=0
+[Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=(nil)
+[Vulkan init] Physical Device 0x12c9620 [0]: "AMD Radeon RX 5700 XT (RADV NAVI10)" deviceType=2 vendorID=1002 deviceID=731f
+[Vulkan init] Selected physical device 0x12c9620
+[Vulkan init] Graphics queue count=1
+[Vulkan init] extensions: count=146
+[Vulkan init] extensions: name=VK_KHR_8bit_storage, enabled=0
+[Vulkan init] extensions: name=VK_KHR_16bit_storage, enabled=0
+[Vulkan init] extensions: name=VK_KHR_bind_memory2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_buffer_device_address, enabled=0
+[Vulkan init] extensions: name=VK_KHR_copy_commands2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_create_renderpass2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_dedicated_allocation, enabled=1
+[Vulkan init] extensions: name=VK_KHR_deferred_host_operations, enabled=0
+[Vulkan init] extensions: name=VK_KHR_depth_stencil_resolve, enabled=1
+[Vulkan init] extensions: name=VK_KHR_descriptor_update_template, enabled=1
+[Vulkan init] extensions: name=VK_KHR_device_group, enabled=0
+[Vulkan init] extensions: name=VK_KHR_draw_indirect_count, enabled=0
+[Vulkan init] extensions: name=VK_KHR_driver_properties, enabled=0
+[Vulkan init] extensions: name=VK_KHR_dynamic_rendering, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_fence_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_memory_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore, enabled=0
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_fd, enabled=0
+[Vulkan init] extensions: name=VK_KHR_format_feature_flags2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_get_memory_requirements2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_global_priority, enabled=0
+[Vulkan init] extensions: name=VK_KHR_image_format_list, enabled=1
+[Vulkan init] extensions: name=VK_KHR_imageless_framebuffer, enabled=0
+[Vulkan init] extensions: name=VK_KHR_incremental_present, enabled=0
+[Vulkan init] extensions: name=VK_KHR_maintenance1, enabled=1
+[Vulkan init] extensions: name=VK_KHR_maintenance2, enabled=1
+[Vulkan init] extensions: name=VK_KHR_maintenance3, enabled=0
+[Vulkan init] extensions: name=VK_KHR_maintenance4, enabled=0
+[Vulkan init] extensions: name=VK_KHR_multiview, enabled=1
+[Vulkan init] extensions: name=VK_KHR_pipeline_executable_properties, enabled=0
+[Vulkan init] extensions: name=VK_KHR_pipeline_library, enabled=0
+[Vulkan init] extensions: name=VK_KHR_push_descriptor, enabled=0
+[Vulkan init] extensions: name=VK_KHR_relaxed_block_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_sampler_mirror_clamp_to_edge, enabled=1
+[Vulkan init] extensions: name=VK_KHR_sampler_ycbcr_conversion, enabled=0
+[Vulkan init] extensions: name=VK_KHR_separate_depth_stencil_layouts, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_atomic_int64, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_clock, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_draw_parameters, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_float16_int8, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_float_controls, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_integer_dot_product, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_non_semantic_info, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_extended_types, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_uniform_control_flow, enabled=0
+[Vulkan init] extensions: name=VK_KHR_shader_terminate_invocation, enabled=0
+[Vulkan init] extensions: name=VK_KHR_spirv_1_4, enabled=0
+[Vulkan init] extensions: name=VK_KHR_storage_buffer_storage_class, enabled=0
+[Vulkan init] extensions: name=VK_KHR_swapchain, enabled=1
+[Vulkan init] extensions: name=VK_KHR_swapchain_mutable_format, enabled=0
+[Vulkan init] extensions: name=VK_KHR_synchronization2, enabled=0
+[Vulkan init] extensions: name=VK_KHR_timeline_semaphore, enabled=0
+[Vulkan init] extensions: name=VK_KHR_uniform_buffer_standard_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_variable_pointers, enabled=0
+[Vulkan init] extensions: name=VK_KHR_vulkan_memory_model, enabled=0
+[Vulkan init] extensions: name=VK_KHR_workgroup_memory_explicit_layout, enabled=0
+[Vulkan init] extensions: name=VK_KHR_zero_initialize_workgroup_memory, enabled=0
+[Vulkan init] extensions: name=VK_EXT_4444_formats, enabled=0
+[Vulkan init] extensions: name=VK_EXT_attachment_feedback_loop_layout, enabled=0
+[Vulkan init] extensions: name=VK_EXT_border_color_swizzle, enabled=0
+[Vulkan init] extensions: name=VK_EXT_buffer_device_address, enabled=0
+[Vulkan init] extensions: name=VK_EXT_calibrated_timestamps, enabled=0
+[Vulkan init] extensions: name=VK_EXT_color_write_enable, enabled=0
+[Vulkan init] extensions: name=VK_EXT_conditional_rendering, enabled=0
+[Vulkan init] extensions: name=VK_EXT_conservative_rasterization, enabled=1
+[Vulkan init] extensions: name=VK_EXT_custom_border_color, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_clip_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_clip_enable, enabled=0
+[Vulkan init] extensions: name=VK_EXT_depth_range_unrestricted, enabled=0
+[Vulkan init] extensions: name=VK_EXT_descriptor_indexing, enabled=0
+[Vulkan init] extensions: name=VK_EXT_discard_rectangles, enabled=0
+[Vulkan init] extensions: name=VK_EXT_display_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state3, enabled=0
+[Vulkan init] extensions: name=VK_EXT_external_memory_dma_buf, enabled=0
+[Vulkan init] extensions: name=VK_EXT_external_memory_host, enabled=0
+[Vulkan init] extensions: name=VK_EXT_global_priority, enabled=0
+[Vulkan init] extensions: name=VK_EXT_global_priority_query, enabled=0
+[Vulkan init] extensions: name=VK_EXT_host_query_reset, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_2d_view_of_3d, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_drm_format_modifier, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_robustness, enabled=0
+[Vulkan init] extensions: name=VK_EXT_image_view_min_lod, enabled=0
+[Vulkan init] extensions: name=VK_EXT_index_type_uint8, enabled=0
+[Vulkan init] extensions: name=VK_EXT_inline_uniform_block, enabled=0
+[Vulkan init] extensions: name=VK_EXT_line_rasterization, enabled=0
+[Vulkan init] extensions: name=VK_EXT_load_store_op_none, enabled=0
+[Vulkan init] extensions: name=VK_EXT_memory_budget, enabled=0
+[Vulkan init] extensions: name=VK_EXT_memory_priority, enabled=0
+[Vulkan init] extensions: name=VK_EXT_multi_draw, enabled=0
+[Vulkan init] extensions: name=VK_EXT_mutable_descriptor_type, enabled=0
+[Vulkan init] extensions: name=VK_EXT_non_seamless_cube_map, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pci_bus_info, enabled=0
+[Vulkan init] extensions: name=VK_EXT_physical_device_drm, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_cache_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_feedback, enabled=0
+[Vulkan init] extensions: name=VK_EXT_post_depth_coverage, enabled=0
+[Vulkan init] extensions: name=VK_EXT_primitive_topology_list_restart, enabled=0
+[Vulkan init] extensions: name=VK_EXT_primitives_generated_query, enabled=0
+[Vulkan init] extensions: name=VK_EXT_private_data, enabled=0
+[Vulkan init] extensions: name=VK_EXT_provoking_vertex, enabled=0
+[Vulkan init] extensions: name=VK_EXT_queue_family_foreign, enabled=0
+[Vulkan init] extensions: name=VK_EXT_robustness2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_sampler_filter_minmax, enabled=0
+[Vulkan init] extensions: name=VK_EXT_scalar_block_layout, enabled=0
+[Vulkan init] extensions: name=VK_EXT_separate_stencil_usage, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_atomic_float, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_atomic_float2, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_demote_to_helper_invocation, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_image_atomic_int64, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_module_identifier, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_stencil_export, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_ballot, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_vote, enabled=0
+[Vulkan init] extensions: name=VK_EXT_shader_viewport_index_layer, enabled=1
+[Vulkan init] extensions: name=VK_EXT_subgroup_size_control, enabled=0
+[Vulkan init] extensions: name=VK_EXT_texel_buffer_alignment, enabled=0
+[Vulkan init] extensions: name=VK_EXT_transform_feedback, enabled=0
+[Vulkan init] extensions: name=VK_EXT_vertex_attribute_divisor, enabled=0
+[Vulkan init] extensions: name=VK_EXT_vertex_input_dynamic_state, enabled=0
+[Vulkan init] extensions: name=VK_EXT_ycbcr_image_arrays, enabled=0
+[Vulkan init] extensions: name=VK_AMD_buffer_marker, enabled=0
+[Vulkan init] extensions: name=VK_AMD_device_coherent_memory, enabled=0
+[Vulkan init] extensions: name=VK_AMD_draw_indirect_count, enabled=0
+[Vulkan init] extensions: name=VK_AMD_gcn_shader, enabled=0
+[Vulkan init] extensions: name=VK_AMD_gpu_shader_half_float, enabled=0
+[Vulkan init] extensions: name=VK_AMD_gpu_shader_int16, enabled=0
+[Vulkan init] extensions: name=VK_AMD_memory_overallocation_behavior, enabled=0
+[Vulkan init] extensions: name=VK_AMD_mixed_attachment_samples, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_ballot, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_core_properties, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_core_properties2, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_explicit_vertex_parameter, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_fragment_mask, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_image_load_store_lod, enabled=0
+[Vulkan init] extensions: name=VK_AMD_shader_trinary_minmax, enabled=0
+[Vulkan init] extensions: name=VK_AMD_texture_gather_bias_lod, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_decorate_string, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_hlsl_functionality1, enabled=0
+[Vulkan init] extensions: name=VK_GOOGLE_user_type, enabled=0
+[Vulkan init] extensions: name=VK_INTEL_shader_integer_functions2, enabled=0
+[Vulkan init] extensions: name=VK_NV_compute_shader_derivatives, enabled=0
+[Vulkan init] extensions: name=VK_VALVE_mutable_descriptor_type, enabled=0
+Fossilize INFO: Overriding serialization path: "/home/jflx/.local/share/Steam/steamapps/shadercache/892970/fozpipelinesv6/steamapprun_pipeline_cache".
+Vulkan API version 1.1.0 (1.3.230 supported by driver, 1.1.0 requested)
+Vulkan vendor=[ATI] id=[1002]
+Vulkan renderer=[AMD Radeon RX 5700 XT (RADV NAVI10)] id=[731f]
+Vulkan device type 2
+Vulkan driverversion=[0x05803004] uint=[92286980]
+Vulkan PSO: cache data not found [path=/tmp/IronGate/Valheim/vulkan_pso_cache.bin]
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.087 seconds
+requesting resize 2560 x 1371
+resizing window to 2560 x 1371
+Desktop is 2560 x 1440 @ 144 Hz
+InitializeOrResetSwapChain 2560x1371 hdr=0 samples=1
+UnloadTime: 0.481840 ms
+02/10/2023 18:40:39: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.858624 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+02/10/2023 18:40:41: Using environment steamid 892970
+02/10/2023 18:40:41: Using steam APPID:892970
+[S_API] SteamAPI_Init(): Loaded '/home/jflx/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 892970
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198000930043 [API loaded no]
+02/10/2023 18:40:41: Authentication:k_ESteamNetworkingAvailability_Attempting
+02/10/2023 18:40:41: Steam initialized, persona:Kranken
+02/10/2023 18:40:41: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 18:40:41: Using default prefs
+02/10/2023 18:40:41: Valheim version:0.213.4
+02/10/2023 18:40:41: Worldgenerator version setup:2
+02/10/2023 18:40:41: Render threading mode:MultiThreaded
+02/10/2023 18:40:41: Missing audio clip in music respawn
+02/10/2023 18:40:41: Checking for installed DLCs
+02/10/2023 18:40:41: DLC:beta installed:False
+02/10/2023 18:40:41: Builder started
+02/10/2023 18:40:42: Loaded localization CSV:localization language:English
+02/10/2023 18:40:42: Loaded localization CSV:localization_extra language:English
+02/10/2023 18:40:42: Loaded localization CSV:localization language:English
+02/10/2023 18:40:42: Loaded localization CSV:localization_extra language:English
+02/10/2023 18:40:42: Sending PlayFab login request (attempt 1)
+02/10/2023 18:40:42: Ticket is System.Byte[] of length 369
+02/10/2023 18:40:42: Session auth respons callback
+02/10/2023 18:40:42: Starting music menu
+02/10/2023 18:40:42: UI Group status changed Menu = True
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 137704.
+Total: 63.037240 ms (FindLiveObjects: 5.236223 ms CreateObjectMapping: 9.253494 ms MarkObjects: 48.320493 ms  DeleteObjects: 0.226640 ms)
+
+02/10/2023 18:40:43: PlayFab logged in as "Steam_76561198000930043"
+02/10/2023 18:40:43: PlayFab local entity ID is 4945A74DC9BC2A9D
+02/10/2023 18:40:44: show character selection
+02/10/2023 18:40:46: OnCharacterStart
+02/10/2023 18:40:46: UI Group status changed Panel = False
+02/10/2023 18:40:47: FOund selected Cancel
+02/10/2023 18:40:47: UI Group status changed Panel = True
+02/10/2023 18:40:50: PlayFab lobby matching search filter 'string_key1 eq '4450E71C792A042C' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 18:40:52: Added server with name Nullables Valheim to server list
+02/10/2023 18:40:53: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:53: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:55: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:55: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:55: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:55: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:56: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:56: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:56: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:56: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 18:40:57: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 18:40:57: Determined backend of dedicated server to be PlayFab
+02/10/2023 18:40:57: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 18:40:57: Cloud Save: 196 bytes. /serverlist/favorite.new
+02/10/2023 18:40:57: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 18:40:57: Steam Cloud Move: 196 bytes. /serverlist/favorite -> /serverlist/favorite.old
+02/10/2023 18:40:57: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 18:40:57: Steam Cloud Move: 196 bytes. /serverlist/favorite.new -> /serverlist/favorite
+02/10/2023 18:40:57: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 18:40:57: Cloud Save: 196 bytes. /serverlist/recent.new
+02/10/2023 18:40:57: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 18:40:57: Steam Cloud Move: 196 bytes. /serverlist/recent -> /serverlist/recent.old
+02/10/2023 18:40:57: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 18:40:57: Steam Cloud Move: 196 bytes. /serverlist/recent.new -> /serverlist/recent
+02/10/2023 18:40:57: Steam writing file chunks 1 / 1, (196 bytes)
+UnloadTime: 154.848634 ms
+02/10/2023 18:40:57: Steam initialized, persona:Kranken
+02/10/2023 18:40:57: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 18:40:57: Using default prefs
+02/10/2023 18:40:57: Loading player profile oogabooga
+02/10/2023 18:40:57: isModded: False
+02/10/2023 18:40:57: Zonesystem Awake 819
+02/10/2023 18:40:57: DungeonDB Awake 819
+02/10/2023 18:40:57: Steam initialized, persona:Kranken
+02/10/2023 18:40:57: Audioman already exist, destroying self
+02/10/2023 18:40:57: Checking for installed DLCs
+02/10/2023 18:40:57: DLC:beta installed:False
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 141513.
+Total: 67.079462 ms (FindLiveObjects: 5.062633 ms CreateObjectMapping: 9.517314 ms MarkObjects: 51.372465 ms  DeleteObjects: 1.126570 ms)
+
+02/10/2023 18:41:01: Zonesystem Start 819
+02/10/2023 18:41:01: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+02/10/2023 18:41:01: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+02/10/2023 18:41:01: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+02/10/2023 18:41:02: DungeonDB Start 819
+02/10/2023 18:41:02: ZRpc timeout set to 30s 
+02/10/2023 18:41:02: Connecting to server with PlayFab-backend FCFBCCA58F1FA61
+02/10/2023 18:41:02: PlayFab socket with remote ID FCFBCCA58F1FA61 sent local Platform ID Steam_76561198000930043
+02/10/2023 18:41:02: Session auth respons callback
+02/10/2023 18:41:07: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 18:41:07: Joining server 'Nullables Valheim' at PlayFab network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ== from lobby f1ee176b-c21f-405c-aee5-356b60d028eb
+02/10/2023 18:41:09: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 18:41:09: ZRpc timeout set to 90s 
+02/10/2023 18:41:09: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 18:41:09: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 18:41:09: Muted PlayFab remote player 16C4C1FAF5216960
+02/10/2023 18:41:09: Muted PlayFab remote player D4242524597FC3BC
+02/10/2023 18:41:09: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 18:41:09: Muted PlayFab remote player BEF50A6109154BF2
+02/10/2023 18:41:21: VERSION check their:0.213.4  mine:0.213.4
+02/10/2023 18:41:21: Worldgenerator version setup:2
+02/10/2023 18:41:23: Session auth respons callback
+02/10/2023 18:41:28: Unpacking compressed mapdata 8553
+02/10/2023 18:41:28: Starting respawn
+02/10/2023 18:41:28: client got keys 1
+02/10/2023 18:41:28: client got location icons
+02/10/2023 18:41:28: Icons:1
+02/10/2023 18:41:29: tip:$loadscreen_tip02
+02/10/2023 18:41:36: Spawned after 8.019994
+02/10/2023 18:41:36: Skipping unloading unused assets
+02/10/2023 18:41:36: Minimap: Adding unique location (-124.0, 76.5, -253.3)
+02/10/2023 18:41:38: Starting music meadows
+02/10/2023 18:41:38: Resumed music meadows at 0
+02/10/2023 18:41:45: Queue unlock msg:$msg_newitem:$item_chest_leather
+02/10/2023 18:41:45: Queue unlock msg:$msg_newitem:$item_legs_leather
+02/10/2023 18:41:55: Setting selected recipe 0
+02/10/2023 18:41:55: UI Group status changed root = True
+02/10/2023 18:41:55: UI Group status changed Player = True
+02/10/2023 18:42:37: Setting selected recipe 0
+02/10/2023 18:42:37: UI Group status changed root = True
+02/10/2023 18:42:37: UI Group status changed Player = True
+02/10/2023 18:43:12: Setting selected recipe 0
+02/10/2023 18:43:12: UI Group status changed root = True
+02/10/2023 18:43:12: UI Group status changed Player = True
+02/10/2023 18:43:12: UI Group status changed Container = False
+02/10/2023 18:43:19: Setting selected recipe 0
+02/10/2023 18:43:22: Added to stack100 13
+02/10/2023 18:43:23: Setting selected recipe 0
+02/10/2023 18:43:30: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:43:30:   in use
+02/10/2023 18:43:39: Refresh complete 8163  eServerResponded
+02/10/2023 18:43:52: Stopped music meadows at 5902579
+02/10/2023 18:43:52: Starting music home
+02/10/2023 18:43:52: Resumed music home at 0
+02/10/2023 18:43:52: Stopped music home at 11289
+02/10/2023 18:43:52: Starting music meadows
+02/10/2023 18:43:52: Resumed music meadows at 5902579
+02/10/2023 18:44:44: Setting selected recipe 0
+02/10/2023 18:44:44: UI Group status changed root = True
+02/10/2023 18:44:44: UI Group status changed Player = True
+02/10/2023 18:45:03: Starting respawn
+02/10/2023 18:45:03: Local player destroyed
+02/10/2023 18:45:03: tip:$loadscreen_tip24
+02/10/2023 18:45:11: Found bed at custom spawn point
+02/10/2023 18:45:11: Skipping unloading unused assets
+02/10/2023 18:45:13: Stopped music meadows at 3538348
+02/10/2023 18:45:13: Starting music meadows
+02/10/2023 18:45:13: Resumed music meadows at 3538348
+02/10/2023 18:45:48: Stopped music meadows at 1566431
+02/10/2023 18:45:48: Starting music meadows
+02/10/2023 18:45:48: Resumed music meadows at 1566431
+02/10/2023 18:46:31: Stopped music meadows at 1887244
+02/10/2023 18:46:31: Starting music meadows
+02/10/2023 18:46:31: Resumed music meadows at 1887244
+02/10/2023 18:46:43: Grave should fit in inventory, loot all
+02/10/2023 18:46:43: Player 991217567 wants to takeall from Player_tombstone(Clone)   im: 991217567
+02/10/2023 18:46:54: Setting selected recipe 1
+02/10/2023 18:46:54: UI Group status changed root = True
+02/10/2023 18:46:54: UI Group status changed Player = True
+02/10/2023 18:47:32: Right click
+02/10/2023 18:47:43: Update PlayFab entity token
+02/10/2023 18:47:51: Valid True
+02/10/2023 18:47:51: On death False
+02/10/2023 18:47:53: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 18:47:53: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 18:47:53: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 18:47:53:   but im not the owner
+02/10/2023 18:47:53: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 18:47:53:   but im not the owner
+02/10/2023 18:47:53: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 18:47:53:   but im not the owner
+02/10/2023 18:47:53: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 18:47:53:   but im not the owner
+02/10/2023 18:47:59: Player 2817333318 wants to open piece_chest_wood(Clone)   im: 991217567
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+a component is in an invalid state to perform the requested operation
+02/10/2023 18:48:05: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+02/10/2023 18:48:07: Queue unlock msg:$msg_newstation_level:$piece_workbench $msg_level 3
+02/10/2023 18:48:08: Reset party to clear network error
+ResetParty
+Task: CleanPartyTask
+Curl error 6: Could not resolve host: 6e223.playfabapi.com
+Curl error 6: Could not resolve host: 6e223.playfabapi.com
+Curl error 6: Could not resolve host: 6e223.playfabapi.com
+Curl error 6: Could not resolve host: 6e223.playfabapi.com
+Task: InitPartyTask()
+02/10/2023 18:48:45: Stopped music meadows at 5906342
+02/10/2023 18:48:45: Starting music meadows
+02/10/2023 18:48:45: Resumed music meadows at 5906342
+You need to connect to a network before you can call this method.
+02/10/2023 18:48:49: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+02/10/2023 18:48:51: Stopped music meadows at 268127
+02/10/2023 18:48:51: Starting music home
+02/10/2023 18:48:51: Resumed music home at 11289
+02/10/2023 18:48:52: Reset party to clear network error
+ResetParty
+Task: CleanPartyTask
+Task: InitPartyTask()
+02/10/2023 18:48:55: Stopped music home at 183455
+02/10/2023 18:48:55: Starting music meadows
+02/10/2023 18:48:55: Resumed music meadows at 268127
+02/10/2023 18:48:56: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 18:48:56: Leave server 'Nullables Valheim' at new PlayFab network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==, try to re-join later
+You need to connect to a network before you can call this method.
+02/10/2023 18:49:07: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+02/10/2023 18:49:07: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 18:49:07: Re-joining server 'Nullables Valheim' at new PlayFab network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 18:49:09: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 18:49:09: ZRpc timeout set to 90s 
+02/10/2023 18:49:10: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 18:49:10: Resume TX on playfab/FCFBCCA58F1FA61
+02/10/2023 18:49:10: Do a reset party as nothing seems to be received
+ResetParty
+Task: LeaveNetworkTask
+02/10/2023 18:49:10: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 18:49:10: Muted PlayFab remote player 16C4C1FAF5216960
+02/10/2023 18:49:10: Muted PlayFab remote player D4242524597FC3BC
+02/10/2023 18:49:10: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 18:49:10: Muted PlayFab remote player BEF50A6109154BF2
+02/10/2023 18:49:10: Player 2817333318 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:49:10:   but im not the owner
+02/10/2023 18:49:10: Player 2817333318 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:49:10:   but im not the owner
+02/10/2023 18:49:10: Player 2817333318 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:49:10: Player 2817333318 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:49:10: Player 2817333318 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:49:10:   but im not the owner
+Task: CleanPartyTask
+Task: InitPartyTask()
+Task: JoinPartyTask
+02/10/2023 18:49:12: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 18:49:12: ZRpc timeout set to 90s 
+02/10/2023 18:49:12: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 18:49:12: Resume TX on playfab/FCFBCCA58F1FA61
+02/10/2023 18:49:12: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 18:49:12: Muted PlayFab remote player 16C4C1FAF5216960
+02/10/2023 18:49:12: Muted PlayFab remote player D4242524597FC3BC
+02/10/2023 18:49:12: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 18:49:12: Muted PlayFab remote player BEF50A6109154BF2
+02/10/2023 18:49:13: Player 2817333318 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:49:13:   but im not the owner
+02/10/2023 18:49:16: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 18:49:27: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:50:25: Im still nto the owner
+02/10/2023 18:50:25: Im finally the owner
+02/10/2023 18:50:55: Setting selected recipe 0
+02/10/2023 18:50:55: UI Group status changed root = True
+02/10/2023 18:50:55: UI Group status changed Player = True
+02/10/2023 18:50:59: Setting selected recipe 5
+02/10/2023 18:51:00: Setting selected recipe 4
+02/10/2023 18:51:00: Setting selected recipe 6
+02/10/2023 18:51:01: Setting selected recipe 8
+02/10/2023 18:51:02: Setting selected recipe 0
+02/10/2023 18:51:04: Setting selected recipe 1
+02/10/2023 18:51:05: Setting selected recipe 0
+02/10/2023 18:51:05: Setting selected recipe 0
+02/10/2023 18:51:14: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:51:22: Setting selected recipe 13
+02/10/2023 18:51:22: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:51:23: Setting selected recipe 14
+02/10/2023 18:51:31: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:51:40: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:51:51: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 18:51:51: Player 2495998820 wants to pickup CookedMeat(Clone)   im: 991217567
+02/10/2023 18:51:51: Player 2495998820 wants to pickup CookedMeat(Clone)   im: 991217567
+02/10/2023 18:51:51: Player 2495998820 wants to pickup CookedMeat(Clone)   im: 991217567
+02/10/2023 18:51:51:   but im not the owner
+02/10/2023 18:51:52: Player 2495998820 wants to pickup CookedMeat(Clone)   im: 991217567
+02/10/2023 18:51:52:   but im not the owner
+02/10/2023 18:51:52: Player 2495998820 wants to pickup CookedDeerMeat(Clone)   im: 991217567
+02/10/2023 18:51:53: Player 2495998820 wants to pickup CookedDeerMeat(Clone)   im: 991217567
+02/10/2023 18:51:53:   but im not the owner
+02/10/2023 18:51:53: Player 2495998820 wants to pickup CookedDeerMeat(Clone)   im: 991217567
+02/10/2023 18:51:53: Player 2495998820 wants to pickup CookedDeerMeat(Clone)   im: 991217567
+02/10/2023 18:51:53:   but im not the owner
+02/10/2023 18:52:23: Valid True
+02/10/2023 18:52:23: On death False
+02/10/2023 18:52:25: Queue unlock msg:$msg_newmaterial:$item_boar_meat
+02/10/2023 18:52:25: Queue unlock msg:$msg_newtrophy:$item_trophy_boar
+02/10/2023 18:52:26: Spawned Boar x 1
+02/10/2023 18:52:30: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 18:52:45: Setting selected recipe 0
+02/10/2023 18:52:45: UI Group status changed root = True
+02/10/2023 18:52:45: UI Group status changed Player = True
+02/10/2023 18:52:48: Starting music evening
+02/10/2023 18:52:49: Stopped music meadows at 589950
+02/10/2023 18:53:18: Im still nto the owner
+02/10/2023 18:53:18: Im still nto the owner
+02/10/2023 18:53:18: Im still nto the owner
+02/10/2023 18:53:18: Im still nto the owner
+02/10/2023 18:53:18: Im still nto the owner
+02/10/2023 18:53:18: Im still nto the owner
+02/10/2023 18:53:18: Im finally the owner
+02/10/2023 18:53:50: Player 2355983853 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:54:30: Player 1898914945 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:54:31: Player 1898914945 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:54:33: Player 1898914945 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 18:55:00: Setting selected recipe 0
+02/10/2023 18:55:00: UI Group status changed root = True
+02/10/2023 18:55:00: UI Group status changed Player = True
+02/10/2023 18:55:08: Item is not in this container
+02/10/2023 18:55:08: Setting selected recipe 0
+02/10/2023 18:55:29: Setting selected recipe 0
+02/10/2023 18:55:29: UI Group status changed root = True
+02/10/2023 18:55:29: UI Group status changed Player = True
+02/10/2023 18:55:39: Setting selected recipe 0
+02/10/2023 18:55:39: UI Group status changed root = True
+02/10/2023 18:55:39: UI Group status changed Player = True
+02/10/2023 18:55:52: Setting selected recipe 0
+02/10/2023 18:55:52: UI Group status changed root = True
+02/10/2023 18:55:52: UI Group status changed Player = True
+02/10/2023 18:57:14: Is mine
+02/10/2023 18:57:14: is current spawnpoint
+02/10/2023 18:57:14: exporeusre check 0.9411765  True
+02/10/2023 18:57:15: Is mine
+02/10/2023 18:57:15: is current spawnpoint
+02/10/2023 18:57:15: exporeusre check 0.9411765  True
+02/10/2023 18:57:16: Is mine
+02/10/2023 18:57:16: is current spawnpoint
+02/10/2023 18:57:16: exporeusre check 0.9411765  True
+02/10/2023 19:00:06: Spawned Deer x 2
+02/10/2023 19:01:49: Starting music morning
+02/10/2023 19:02:23: Starting music meadows
+02/10/2023 19:02:54: Saying Normal  pong
+02/10/2023 19:03:55: Setting selected recipe 0
+02/10/2023 19:03:55: UI Group status changed root = True
+02/10/2023 19:03:55: UI Group status changed Player = True
+02/10/2023 19:05:19: Spawned Greyling x 1
+02/10/2023 19:06:00: Player 2355983853 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:06:00:   but im not the owner
+02/10/2023 19:06:02: Player 2355983853 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:06:11: Stopped music meadows at 360395
+02/10/2023 19:06:11: Starting music home
+02/10/2023 19:06:43: Stopped music home at 1400851
+02/10/2023 19:06:43: Starting music home
+02/10/2023 19:06:43: Resumed music home at 1400851
+02/10/2023 19:06:50: Update PlayFab entity token
+02/10/2023 19:06:51: Stopped music home at 358444
+02/10/2023 19:06:51: Starting music meadows
+02/10/2023 19:06:51: Resumed music meadows at 360395
+02/10/2023 19:07:18: Valid True
+02/10/2023 19:07:18: On death False
+02/10/2023 19:07:20: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:07:20: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:07:20: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:07:20:   but im not the owner
+02/10/2023 19:07:20: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:07:20:   but im not the owner
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:07:23:   but im not the owner
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:07:23:   but im not the owner
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:07:23:   but im not the owner
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:07:23:   but im not the owner
+02/10/2023 19:07:23: Player 2495998820 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:07:23:   but im not the owner
+02/10/2023 19:07:24: Player 2495998820 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:07:24:   but im not the owner
+02/10/2023 19:07:27: Setting selected recipe 1
+02/10/2023 19:07:27: UI Group status changed root = True
+02/10/2023 19:07:27: UI Group status changed Player = True
+02/10/2023 19:07:33: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:07:46: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:07:51: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:07:57: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:07:58: UI Group status changed MenuRoot = True
+02/10/2023 19:08:01: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:08:04: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:08:12: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:08:20: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:08:20: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:08:20:   but im not the owner
+02/10/2023 19:08:20: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:08:20:   but im not the owner
+02/10/2023 19:08:26: Spawned Boar x 1
+02/10/2023 19:08:31: Player 2495998820 wants to open piece_chest_wood(Clone)   im: 991217567
+02/10/2023 19:08:52: Im still nto the owner
+02/10/2023 19:08:52: Im still nto the owner
+02/10/2023 19:08:52: Im still nto the owner
+02/10/2023 19:08:52: Im still nto the owner
+02/10/2023 19:08:52: Im finally the owner
+02/10/2023 19:08:59: Im still nto the owner
+02/10/2023 19:08:59: Im still nto the owner
+02/10/2023 19:08:59: Im still nto the owner
+02/10/2023 19:08:59: Im still nto the owner
+02/10/2023 19:08:59: Im still nto the owner
+02/10/2023 19:08:59: Im finally the owner
+02/10/2023 19:09:14: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:14: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:14:   but im not the owner
+02/10/2023 19:09:14: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:14:   but im not the owner
+02/10/2023 19:09:15: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:15: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:15:   but im not the owner
+02/10/2023 19:09:15: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:15: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:15:   but im not the owner
+02/10/2023 19:09:15: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:15:   but im not the owner
+02/10/2023 19:09:15: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:15:   but im not the owner
+02/10/2023 19:09:16: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:16: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:16:   but im not the owner
+02/10/2023 19:09:16: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:16: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:16:   but im not the owner
+02/10/2023 19:09:16: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:16:   but im not the owner
+02/10/2023 19:09:17: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:17: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:17:   but im not the owner
+02/10/2023 19:09:17: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:17:   but im not the owner
+02/10/2023 19:09:18: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:18: Player 2495998820 wants to pickup Coal(Clone)   im: 991217567
+02/10/2023 19:09:18:   but im not the owner
+02/10/2023 19:10:06: Spawned Boar x 2
+02/10/2023 19:10:06: Spawned Greydwarf x 1
+02/10/2023 19:11:08: Im still nto the owner
+02/10/2023 19:11:08: Im still nto the owner
+02/10/2023 19:11:08: Im still nto the owner
+02/10/2023 19:11:08: Im still nto the owner
+02/10/2023 19:11:08: Im still nto the owner
+02/10/2023 19:11:08: Im still nto the owner
+02/10/2023 19:11:08: Im finally the owner
+02/10/2023 19:11:30: Queue unlock msg:$msg_newitem:$item_helmet_leather
+02/10/2023 19:11:32: Setting selected recipe 0
+02/10/2023 19:11:32: UI Group status changed root = True
+02/10/2023 19:11:32: UI Group status changed Player = True
+02/10/2023 19:11:38: Uncompressed size 8388930
+02/10/2023 19:11:38: Compressed size 8592
+02/10/2023 19:11:38: Cloud Save: 29354 bytes. /characters/oogabooga.fch.new
+02/10/2023 19:11:38: Steam writing file chunks 1 / 1, (29354 bytes)
+02/10/2023 19:11:38: Steam Cloud Move: 28879 bytes. /characters/oogabooga.fch -> /characters/oogabooga.fch.old
+02/10/2023 19:11:38: Steam writing file chunks 1 / 1, (28879 bytes)
+02/10/2023 19:11:38: Steam Cloud Move: 29354 bytes. /characters/oogabooga.fch.new -> /characters/oogabooga.fch
+02/10/2023 19:11:38: Steam writing file chunks 1 / 1, (29354 bytes)
+02/10/2023 19:11:38: Considering autobackup. World time: 1799.98, short time: 7200, long time: 43200, backup count: 4
+02/10/2023 19:11:38: Creating new backup since we haven't reached our desired amount
+02/10/2023 19:11:38: Saving backup at: /characters/oogabooga_backup_auto-20230210191138.fch
+02/10/2023 19:11:38: Cloud Copy: 29354 bytes. /characters/oogabooga.fch -> /characters/oogabooga_backup_auto-20230210191138.fch
+02/10/2023 19:11:38: Steam writing file chunks 1 / 1, (29354 bytes)
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:47: Im still nto the owner
+02/10/2023 19:11:48: Im still nto the owner
+02/10/2023 19:11:48: Im still nto the owner
+02/10/2023 19:11:48: Im finally the owner
+02/10/2023 19:11:49: Im still nto the owner
+02/10/2023 19:11:49: Im still nto the owner
+02/10/2023 19:11:49: Im still nto the owner
+02/10/2023 19:11:49: Im still nto the owner
+02/10/2023 19:11:49: Im still nto the owner
+02/10/2023 19:11:50: Im still nto the owner
+02/10/2023 19:11:50: Im finally the owner
+02/10/2023 19:12:00: Force generaeting hmap (384.0, 0.0, -448.0)
+02/10/2023 19:12:17: Loading dungeon
+02/10/2023 19:12:17: Dungeon loaded 34
+02/10/2023 19:12:17: Dungeon load time 16.856 ms
+02/10/2023 19:12:34: Loading dungeon
+02/10/2023 19:12:34: Dungeon loaded 31
+02/10/2023 19:12:34: Dungeon load time 14.049 ms
+02/10/2023 19:12:41: Im still nto the owner
+02/10/2023 19:12:41: Im still nto the owner
+02/10/2023 19:12:41: Im still nto the owner
+02/10/2023 19:12:41: Im still nto the owner
+02/10/2023 19:12:41: Im finally the owner
+02/10/2023 19:12:50: Loading dungeon
+02/10/2023 19:12:50: Dungeon loaded 31
+02/10/2023 19:12:50: Dungeon load time 13.427 ms
+02/10/2023 19:13:08: Loading dungeon
+02/10/2023 19:13:09: Dungeon loaded 21
+02/10/2023 19:13:09: Dungeon load time 12.648 ms
+02/10/2023 19:13:25: Stopped music meadows at 7650654
+02/10/2023 19:13:25: Starting music blackforest
+02/10/2023 19:13:55: Loading dungeon
+02/10/2023 19:13:55: Dungeon loaded 27
+02/10/2023 19:13:55: Dungeon load time 12.508 ms
+02/10/2023 19:14:01: Setting selected recipe 0
+02/10/2023 19:14:01: UI Group status changed root = True
+02/10/2023 19:14:01: UI Group status changed Player = True
+02/10/2023 19:14:14: Loading dungeon
+02/10/2023 19:14:14: Dungeon loaded 21
+02/10/2023 19:14:14: Dungeon load time 10.144 ms
+02/10/2023 19:14:50: Loading dungeon
+02/10/2023 19:14:50: Dungeon loaded 31
+02/10/2023 19:14:50: Dungeon load time 13.635 ms
+02/10/2023 19:15:23: Loading dungeon
+02/10/2023 19:15:23: Dungeon loaded 34
+02/10/2023 19:15:23: Dungeon load time 16.52 ms
+02/10/2023 19:15:31: Queue unlock msg:$msg_newmaterial:$item_carrotseeds
+02/10/2023 19:15:32: Player 2495998820 wants to pickup CarrotSeeds(Clone)   im: 991217567
+02/10/2023 19:15:32: Player 2495998820 wants to pickup CarrotSeeds(Clone)   im: 991217567
+02/10/2023 19:15:32:   but im not the owner
+02/10/2023 19:15:33: Player 2495998820 wants to pickup CarrotSeeds(Clone)   im: 991217567
+02/10/2023 19:15:33:   but im not the owner
+02/10/2023 19:15:40: Force generaeting hmap (384.0, 0.0, -512.0)
+02/10/2023 19:15:40: Force generaeting hmap (384.0, 0.0, -448.0)
+02/10/2023 19:15:50: Stopped music blackforest at 6413433
+02/10/2023 19:15:50: Starting music meadows
+02/10/2023 19:15:50: Resumed music meadows at 7650654
+02/10/2023 19:16:02: Loading dungeon
+02/10/2023 19:16:02: Dungeon loaded 31
+02/10/2023 19:16:02: Dungeon load time 14.424 ms
+02/10/2023 19:16:05: Player 2495998820 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:16:05:   but im not the owner
+02/10/2023 19:16:05: Player 2495998820 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:16:06: Player 2495998820 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:16:06:   but im not the owner
+02/10/2023 19:16:06: Player 2355983853 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:16:06:   but im not the owner
+02/10/2023 19:16:09: Queue unlock msg:$msg_newmaterial:$item_greydwarfeye
+02/10/2023 19:16:29: Stopped music meadows at 1691558
+02/10/2023 19:16:29: Starting music blackforest
+02/10/2023 19:16:29: Resumed music blackforest at 6413433
+02/10/2023 19:16:54: Setting selected recipe 0
+02/10/2023 19:16:54: UI Group status changed root = True
+02/10/2023 19:16:54: UI Group status changed Player = True
+02/10/2023 19:16:56: Setting selected recipe 1
+02/10/2023 19:16:59: Setting selected recipe 1
+02/10/2023 19:17:02: Item is not in this container
+02/10/2023 19:17:02: Setting selected recipe 1
+02/10/2023 19:17:16: Setting selected recipe 1
+02/10/2023 19:17:16: UI Group status changed root = True
+02/10/2023 19:17:16: UI Group status changed Player = True
+02/10/2023 19:17:58: Stopped music blackforest at 1286435
+02/10/2023 19:17:58: Starting music meadows
+02/10/2023 19:17:58: Resumed music meadows at 1691558
+02/10/2023 19:18:41: Im still nto the owner
+02/10/2023 19:18:41: Im still nto the owner
+02/10/2023 19:18:41: Im still nto the owner
+02/10/2023 19:18:41: Im still nto the owner
+02/10/2023 19:18:41: Im still nto the owner
+02/10/2023 19:18:41: Im still nto the owner
+02/10/2023 19:18:41: Im finally the owner
+02/10/2023 19:18:46: Force generaeting hmap (128.0, 0.0, -384.0)
+02/10/2023 19:18:46: Force generaeting hmap (192.0, 0.0, -384.0)
+02/10/2023 19:19:32: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:32:   but im not the owner
+02/10/2023 19:19:32: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:32: Player 2355983853 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:19:32:   but im not the owner
+02/10/2023 19:19:32: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:32:   but im not the owner
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:33:   but im not the owner
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:33:   but im not the owner
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerMeat(Clone)   im: 991217567
+02/10/2023 19:19:33:   but im not the owner
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:33:   but im not the owner
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:33:   but im not the owner
+02/10/2023 19:19:33: Player 2355983853 wants to pickup DeerHide(Clone)   im: 991217567
+02/10/2023 19:19:33:   but im not the owner
+02/10/2023 19:19:37: Spawned Greyling x 1
+02/10/2023 19:19:45: Valid True
+02/10/2023 19:19:45: On death False
+02/10/2023 19:19:52: Force generaeting hmap (384.0, 0.0, -512.0)
+02/10/2023 19:19:52: Force generaeting hmap (384.0, 0.0, -448.0)
+02/10/2023 19:19:53: Spawned Deer x 1
+02/10/2023 19:19:54: Force generaeting hmap (64.0, 0.0, -448.0)
+02/10/2023 19:19:54: Force generaeting hmap (384.0, 0.0, -512.0)
+02/10/2023 19:19:54: Force generaeting hmap (384.0, 0.0, -448.0)
+02/10/2023 19:19:54: Force generaeting hmap (128.0, 0.0, -576.0)
+02/10/2023 19:19:54: Force generaeting hmap (64.0, 0.0, -576.0)
+02/10/2023 19:19:55: Force generaeting hmap (64.0, 0.0, -448.0)
+02/10/2023 19:19:55: Force generaeting hmap (384.0, 0.0, -512.0)
+02/10/2023 19:19:55: Force generaeting hmap (384.0, 0.0, -448.0)
+02/10/2023 19:19:55: Player 2355983853 wants to pickup NeckTail(Clone)   im: 991217567
+02/10/2023 19:19:57: Setting selected recipe 1
+02/10/2023 19:19:57: UI Group status changed root = True
+02/10/2023 19:19:57: UI Group status changed Player = True
+02/10/2023 19:20:05: Drop item $item_axe_stone
+02/10/2023 19:20:05: drop all 1  1
+02/10/2023 19:20:05: Setting selected recipe 1
+02/10/2023 19:20:05: Queue unlock msg:$msg_newmaterial:$item_deer_meat
+02/10/2023 19:20:08: Player 2355983853 wants to pickup AxeStone(Clone)   im: 991217567
+02/10/2023 19:20:08: Player 2355983853 wants to pickup AxeStone(Clone)   im: 991217567
+02/10/2023 19:20:08:   but im not the owner
+02/10/2023 19:20:10: Force generaeting hmap (384.0, 0.0, -512.0)
+02/10/2023 19:20:10: Force generaeting hmap (384.0, 0.0, -448.0)
+02/10/2023 19:20:10: Force generaeting hmap (128.0, 0.0, -576.0)
+02/10/2023 19:20:10: Force generaeting hmap (64.0, 0.0, -576.0)
+02/10/2023 19:20:10: Force generaeting hmap (64.0, 0.0, -448.0)
+02/10/2023 19:20:19: Loading dungeon
+02/10/2023 19:20:19: Dungeon loaded 31
+02/10/2023 19:20:19: Dungeon load time 13.544 ms
+02/10/2023 19:20:37: Loading dungeon
+02/10/2023 19:20:37: Dungeon loaded 21
+02/10/2023 19:20:37: Dungeon load time 11.871 ms
+02/10/2023 19:20:50: Loading dungeon
+02/10/2023 19:20:50: Dungeon loaded 34
+02/10/2023 19:20:50: Dungeon load time 14.765 ms
+02/10/2023 19:21:08: Loading dungeon
+02/10/2023 19:21:08: Dungeon loaded 24
+02/10/2023 19:21:08: Dungeon load time 13.882 ms
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:10: Player 2495998820 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:10:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 2495998820 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup GreydwarfEye(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Stone(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Resin(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:11: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:11:   but im not the owner
+02/10/2023 19:21:12: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:12: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:12: Player 2495998820 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:12:   but im not the owner
+02/10/2023 19:21:12: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:12:   but im not the owner
+02/10/2023 19:21:12: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:12:   but im not the owner
+02/10/2023 19:21:12: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:12:   but im not the owner
+02/10/2023 19:21:12: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:13: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:13:   but im not the owner
+02/10/2023 19:21:13: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:13: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:13:   but im not the owner
+02/10/2023 19:21:13: Player 1898914945 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:13:   but im not the owner
+02/10/2023 19:21:22: Player 2495998820 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:25: Loading dungeon
+02/10/2023 19:21:25: Dungeon loaded 34
+02/10/2023 19:21:25: Dungeon load time 18.423 ms
+02/10/2023 19:21:26: Player 2495998820 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:27: Player 2495998820 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:27:   but im not the owner
+02/10/2023 19:21:27: Player 2495998820 wants to pickup Wood(Clone)   im: 991217567
+02/10/2023 19:21:27:   but im not the owner
+02/10/2023 19:21:28: Loading dungeon
+02/10/2023 19:21:28: Dungeon loaded 24
+02/10/2023 19:21:28: Dungeon load time 14.365 ms
+02/10/2023 19:21:37: Loading dungeon
+02/10/2023 19:21:37: Dungeon loaded 34
+02/10/2023 19:21:37: Dungeon load time 15 ms
+02/10/2023 19:21:39: Force generaeting hmap (384.0, 0.0, -512.0)
+02/10/2023 19:21:39: Force generaeting hmap (256.0, 0.0, -448.0)
+02/10/2023 19:21:39: Force generaeting hmap (384.0, 0.0, -448.0)
+02/10/2023 19:21:57: Loading dungeon
+02/10/2023 19:21:57: Dungeon loaded 31
+02/10/2023 19:21:57: Dungeon load time 13.749 ms
+02/10/2023 19:22:49: Starting music evening
+02/10/2023 19:22:50: Stopped music meadows at 4875294
+02/10/2023 19:23:44: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:23:44: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:23:44: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:23:44:   but im not the owner
+02/10/2023 19:23:44: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:23:44:   but im not the owner
+02/10/2023 19:24:23: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:24:24: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:24:24: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup LeatherScraps(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:24: Player 2495998820 wants to pickup RawMeat(Clone)   im: 991217567
+02/10/2023 19:24:24:   but im not the owner
+02/10/2023 19:24:39: Is mine
+02/10/2023 19:24:39: is current spawnpoint
+02/10/2023 19:24:39: exporeusre check 0.9411765  True
+02/10/2023 19:24:44: Setting selected recipe 1
+02/10/2023 19:24:44: UI Group status changed root = True
+02/10/2023 19:24:44: UI Group status changed Player = True
+02/10/2023 19:24:47: Setting selected recipe 1
+02/10/2023 19:24:47: UI Group status changed root = True
+02/10/2023 19:24:47: UI Group status changed Player = True
+02/10/2023 19:25:07: Update PlayFab entity token
+02/10/2023 19:25:18: Setting selected recipe 2
+02/10/2023 19:25:18: UI Group status changed root = True
+02/10/2023 19:25:18: UI Group status changed Player = True
+02/10/2023 19:25:29: Setting selected recipe 1
+02/10/2023 19:25:29: UI Group status changed root = True
+02/10/2023 19:25:29: UI Group status changed Player = True
+02/10/2023 19:25:52: Setting selected recipe 1
+02/10/2023 19:25:52: UI Group status changed root = True
+02/10/2023 19:25:52: UI Group status changed Player = True
+02/10/2023 19:26:05: Setting selected recipe 1
+02/10/2023 19:26:05: UI Group status changed root = True
+02/10/2023 19:26:05: UI Group status changed Player = True
+02/10/2023 19:26:16: Setting selected recipe 1
+02/10/2023 19:26:16: UI Group status changed root = True
+02/10/2023 19:26:16: UI Group status changed Player = True
+02/10/2023 19:26:21: Disabling PlayerBase  character_trigger
+02/10/2023 19:26:22: Placed fire_pit
+02/10/2023 19:26:22: Disabling PlayerBase  character_trigger
+02/10/2023 19:26:22: Disabling PlayerBase  character_trigger
+02/10/2023 19:26:27: Starting music home
+02/10/2023 19:26:30: Is mine
+02/10/2023 19:26:30: is current spawnpoint
+02/10/2023 19:26:30: exporeusre check 0.9411765  True
+02/10/2023 19:26:30: Ignoring 2 colliders
+02/10/2023 19:26:45: Unloading unused assets
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 8452 unused Assets to reduce memory usage. Loaded Objects now: 1955783.
+Total: 657.038783 ms (FindLiveObjects: 109.070902 ms CreateObjectMapping: 29.246394 ms MarkObjects: 419.031150 ms  DeleteObjects: 99.689577 ms)
+
+02/10/2023 19:26:52: Uncompressed size 8388930
+02/10/2023 19:26:52: Compressed size 8763
+02/10/2023 19:26:52: Cloud Save: 29792 bytes. /characters/oogabooga.fch.new
+02/10/2023 19:26:52: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:26:52: Steam Cloud Move: 29354 bytes. /characters/oogabooga.fch -> /characters/oogabooga.fch.old
+02/10/2023 19:26:52: Steam writing file chunks 1 / 1, (29354 bytes)
+02/10/2023 19:26:52: Steam Cloud Move: 29792 bytes. /characters/oogabooga.fch.new -> /characters/oogabooga.fch
+02/10/2023 19:26:52: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:26:52: Considering autobackup. World time: 2714.02, short time: 7200, long time: 43200, backup count: 4
+02/10/2023 19:26:53: No autobackup needed yet...
+02/10/2023 19:26:59: Starting music morning
+02/10/2023 19:26:59: Stopped music home at 1446950
+02/10/2023 19:27:33: Starting music meadows
+02/10/2023 19:27:33: Resumed music meadows at 4875294
+02/10/2023 19:27:49: Setting selected recipe 1
+02/10/2023 19:27:49: UI Group status changed root = True
+02/10/2023 19:27:49: UI Group status changed Player = True
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+02/10/2023 19:27:59: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+02/10/2023 19:28:02: Reset party to clear network error
+ResetParty
+Task: CleanPartyTask
+Task: InitPartyTask()
+02/10/2023 19:28:13: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 19:28:13: Leave server 'Nullables Valheim' at new PlayFab network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==, try to re-join later
+02/10/2023 19:28:24: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 19:28:24: Re-joining server 'Nullables Valheim' at new PlayFab network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+You need to connect to a network before you can call this method.
+02/10/2023 19:28:25: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+02/10/2023 19:28:26: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 19:28:26: ZRpc timeout set to 90s 
+02/10/2023 19:28:28: Reset party to clear network error
+ResetParty
+Task: LeaveNetworkTask
+Task: CleanPartyTask
+Task: InitPartyTask()
+Task: JoinPartyTask
+02/10/2023 19:28:30: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 19:28:30: ZRpc timeout set to 90s 
+02/10/2023 19:28:40: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 6
+Lobby ID : f1ee176b-c21f-405c-aee5-356b60d028eb
+Network ID : 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116247727988800
+
+02/10/2023 19:28:40: Leave server 'Nullables Valheim' at new PlayFab network 2bcdd998-107f-45f3-abb8-19d28f57a9ae|AwAxcSnPUoQXHk9JS4pEabdzN1lnzldlc3RFdXJvcGUAAAAAAAAAAAAA/XiiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbkpkbnM4MWU1LWZlYjI3YzUyLTRkNjMtNDE0MS1iODM0LTk0MzE4MTk4ZjEzNy53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==, try to re-join later
+02/10/2023 19:28:46: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:28:50: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 3
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 19:28:50: Re-joining server 'Nullables Valheim' at new PlayFab network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 19:28:51: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 19:28:51: ZRpc timeout set to 90s 
+02/10/2023 19:28:51: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 19:28:51: Resume TX on playfab/FCFBCCA58F1FA61
+02/10/2023 19:28:51: Do a reset party as nothing seems to be received
+ResetParty
+Task: LeaveNetworkTask
+Player not found.
+02/10/2023 19:28:51: Muted PlayFab remote player BEF50A6109154BF2
+Player not found.
+02/10/2023 19:28:51: Muted PlayFab remote player 2D65A9925CEF7103
+Player not found.
+02/10/2023 19:28:51: Muted PlayFab remote player D4242524597FC3BC
+Player not found.
+02/10/2023 19:28:51: Muted PlayFab remote player BEF50A6109154BF2
+Player not found.
+02/10/2023 19:28:51: Muted PlayFab remote player BEF50A6109154BF2
+Player not found.
+02/10/2023 19:28:51: Muted PlayFab remote player D4242524597FC3BC
+02/10/2023 19:28:51: Muted PlayFab remote player FCFBCCA58F1FA61
+Task: CleanPartyTask
+02/10/2023 19:28:52: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+Task: InitPartyTask()
+Task: JoinPartyTask
+02/10/2023 19:28:54: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 19:28:54: ZRpc timeout set to 90s 
+02/10/2023 19:28:54: Failed to get lobby: /Lobby/JoinLobby: The client has exceeded the maximum API request rate and is being throttled
+02/10/2023 19:28:54: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 19:28:54: Resume TX on playfab/FCFBCCA58F1FA61
+02/10/2023 19:28:54: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 19:28:55: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:28:57: Failed to get lobby: /Lobby/JoinLobby: The client has exceeded the maximum API request rate and is being throttled
+02/10/2023 19:28:57: Failed to locate network session for PlayFab player FCFBCCA58F1FA61
+02/10/2023 19:28:57: Lost connection to server:ErrorDisconnected
+02/10/2023 19:28:57: Shuting down
+02/10/2023 19:28:57: Uncompressed size 8388930
+02/10/2023 19:28:57: Compressed size 8763
+02/10/2023 19:28:57: Cloud Save: 29792 bytes. /characters/oogabooga.fch.new
+02/10/2023 19:28:57: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:28:57: Steam Cloud Move: 29792 bytes. /characters/oogabooga.fch -> /characters/oogabooga.fch.old
+02/10/2023 19:28:57: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:28:57: Steam Cloud Move: 29792 bytes. /characters/oogabooga.fch.new -> /characters/oogabooga.fch
+02/10/2023 19:28:57: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:28:57: Considering autobackup. World time: 2838.2, short time: 7200, long time: 43200, backup count: 4
+02/10/2023 19:28:57: No autobackup needed yet...
+02/10/2023 19:28:57: ZNet Shutdown
+02/10/2023 19:28:57: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 19:28:57: Sending disconnect msg
+02/10/2023 19:28:57: Released session ticket
+02/10/2023 19:28:57: Local player destroyed
+
+Unloading 613 unused Assets to reduce memory usage. Loaded Objects now: 1667772.
+Total: 438.677969 ms (FindLiveObjects: 94.170175 ms CreateObjectMapping: 25.854622 ms MarkObjects: 307.212497 ms  DeleteObjects: 11.439945 ms)
+
+02/10/2023 19:28:58: Left PlayFab lobby 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 19:28:58: ZNet OnDestroy
+02/10/2023 19:28:58: Net scene destroyed
+UnloadTime: 1129.107688 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+02/10/2023 19:28:59: Steam initialized, persona:Kranken
+02/10/2023 19:28:59: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 19:28:59: Using default prefs
+02/10/2023 19:28:59: Valheim version:0.213.4
+02/10/2023 19:28:59: Worldgenerator version setup:2
+02/10/2023 19:28:59: Render threading mode:MultiThreaded
+02/10/2023 19:28:59: Audioman already exist, destroying self
+02/10/2023 19:28:59: Checking for installed DLCs
+02/10/2023 19:28:59: DLC:beta installed:False
+
+Unloading 6327 unused Assets to reduce memory usage. Loaded Objects now: 137246.
+Total: 111.644173 ms (FindLiveObjects: 5.579163 ms CreateObjectMapping: 8.817204 ms MarkObjects: 87.642862 ms  DeleteObjects: 9.604124 ms)
+
+02/10/2023 19:29:00: Ticket is System.Byte[] of length 369
+02/10/2023 19:29:00: Session auth respons callback
+02/10/2023 19:29:00: Starting music menu
+02/10/2023 19:29:02: Stopped music meadows at 3896793
+02/10/2023 19:29:03: UI Group status changed Menu = True
+02/10/2023 19:29:05: FOund selected Start game
+02/10/2023 19:29:05: show character selection
+02/10/2023 19:29:07: OnCharacterStart
+02/10/2023 19:29:07: UI Group status changed Panel = False
+02/10/2023 19:29:09: FOund selected Cancel
+02/10/2023 19:29:09: UI Group status changed Panel = True
+02/10/2023 19:29:12: PlayFab lobby matching search filter 'string_key1 eq '4450E71C792A042C' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:29:13: Added server with name Nullables Valheim to server list
+02/10/2023 19:29:14: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:29:15: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:29:15: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:29:15: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:29:16: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:29:16: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:29:16: Failed to get lobby: /Lobby/JoinLobby: The client has exceeded the maximum API request rate and is being throttled
+02/10/2023 19:29:16: Determined backend of dedicated server to be Steamworks
+02/10/2023 19:29:16: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 19:29:16: Cloud Save: 196 bytes. /serverlist/favorite.new
+02/10/2023 19:29:16: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:29:16: Steam Cloud Move: 196 bytes. /serverlist/favorite -> /serverlist/favorite.old
+02/10/2023 19:29:16: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:29:16: Steam Cloud Move: 196 bytes. /serverlist/favorite.new -> /serverlist/favorite
+02/10/2023 19:29:17: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:29:17: Cloud Save: 196 bytes. /serverlist/recent.new
+02/10/2023 19:29:17: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:29:17: Steam Cloud Move: 196 bytes. /serverlist/recent -> /serverlist/recent.old
+02/10/2023 19:29:17: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:29:17: Steam Cloud Move: 196 bytes. /serverlist/recent.new -> /serverlist/recent
+02/10/2023 19:29:17: Steam writing file chunks 1 / 1, (196 bytes)
+UnloadTime: 184.677648 ms
+02/10/2023 19:29:17: Steam initialized, persona:Kranken
+02/10/2023 19:29:17: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 19:29:17: Using default prefs
+02/10/2023 19:29:17: Loading player profile oogabooga
+02/10/2023 19:29:17: isModded: False
+02/10/2023 19:29:17: Zonesystem Awake 252189
+02/10/2023 19:29:17: DungeonDB Awake 252189
+02/10/2023 19:29:17: Steam initialized, persona:Kranken
+02/10/2023 19:29:17: Audioman already exist, destroying self
+02/10/2023 19:29:17: Checking for installed DLCs
+02/10/2023 19:29:17: DLC:beta installed:False
+
+Unloading 139 unused Assets to reduce memory usage. Loaded Objects now: 141524.
+Total: 86.690671 ms (FindLiveObjects: 5.286152 ms CreateObjectMapping: 8.310254 ms MarkObjects: 70.371574 ms  DeleteObjects: 2.722111 ms)
+
+02/10/2023 19:29:21: Zonesystem Start 252189
+02/10/2023 19:29:21: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+02/10/2023 19:29:21: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+02/10/2023 19:29:21: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+02/10/2023 19:29:21: DungeonDB Start 252189
+02/10/2023 19:29:21: ZRpc timeout set to 30s 
+02/10/2023 19:29:21: Connecting to server with Steam-backend 51.89.172.144:29900
+02/10/2023 19:29:21: Starting to connect to 51.89.172.144:29900
+02/10/2023 19:29:22: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+02/10/2023 19:29:22: New connection
+02/10/2023 19:29:22: Session auth respons callback
+02/10/2023 19:29:31: Got status changed msg k_ESteamNetworkingConnectionState_ProblemDetectedLocally
+02/10/2023 19:29:31: Got problem 5003:Timed out attempting to connect
+02/10/2023 19:29:31:   Closing socket 0
+02/10/2023 19:29:31: Closing socket 0
+02/10/2023 19:29:31:   send queue size:0
+02/10/2023 19:29:32: Got status changed msg k_ESteamNetworkingConnectionState_None
+02/10/2023 19:29:32: Disposing socket
+02/10/2023 19:29:32: Last socket, unregistering callback
+02/10/2023 19:29:32: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+02/10/2023 19:29:32: Disposing socket
+02/10/2023 19:29:32: Last socket, unregistering callback
+02/10/2023 19:29:32: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+02/10/2023 19:29:32: Lost connection to server:ErrorConnectFailed
+02/10/2023 19:29:32: Shuting down
+02/10/2023 19:29:32: Cloud Save: 29792 bytes. /characters/oogabooga.fch.new
+02/10/2023 19:29:32: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:29:32: Steam Cloud Move: 29792 bytes. /characters/oogabooga.fch -> /characters/oogabooga.fch.old
+02/10/2023 19:29:32: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:29:32: Steam Cloud Move: 29792 bytes. /characters/oogabooga.fch.new -> /characters/oogabooga.fch
+02/10/2023 19:29:32: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 19:29:32: Considering autobackup. World time: 10.02002, short time: 7200, long time: 43200, backup count: 4
+02/10/2023 19:29:32: Skipping backup. World session not long enough.
+02/10/2023 19:29:32: ZNet Shutdown
+02/10/2023 19:29:32: Unloading unused assets
+02/10/2023 19:29:32: Sending disconnect msg
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1660295.
+Total: 383.608323 ms (FindLiveObjects: 78.535048 ms CreateObjectMapping: 22.521881 ms MarkObjects: 279.804543 ms  DeleteObjects: 2.746031 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 19:29:32: ZNet OnDestroy
+02/10/2023 19:29:32: Net scene destroyed
+UnloadTime: 1031.389302 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+02/10/2023 19:29:33: Steam initialized, persona:Kranken
+02/10/2023 19:29:33: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 19:29:33: Using default prefs
+02/10/2023 19:29:33: Valheim version:0.213.4
+02/10/2023 19:29:33: Worldgenerator version setup:2
+02/10/2023 19:29:33: Render threading mode:MultiThreaded
+02/10/2023 19:29:33: Audioman already exist, destroying self
+02/10/2023 19:29:33: Checking for installed DLCs
+02/10/2023 19:29:33: DLC:beta installed:False
+
+Unloading 6212 unused Assets to reduce memory usage. Loaded Objects now: 137221.
+Total: 107.647971 ms (FindLiveObjects: 6.097243 ms CreateObjectMapping: 8.636994 ms MarkObjects: 82.600219 ms  DeleteObjects: 10.312965 ms)
+
+02/10/2023 19:29:34: Starting music menu
+02/10/2023 19:29:35: Session auth respons callback
+02/10/2023 19:29:38: UI Group status changed Menu = True
+02/10/2023 19:30:17: FOund selected Start game
+02/10/2023 19:30:17: show character selection
+02/10/2023 19:30:22: OnCharacterStart
+02/10/2023 19:30:22: UI Group status changed Panel = False
+02/10/2023 19:30:23: FOund selected Cancel
+02/10/2023 19:30:23: UI Group status changed Panel = True
+02/10/2023 19:30:26: PlayFab lobby matching search filter 'string_key1 eq '4450E71C792A042C' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:28: PlayFab lobby matching search filter 'string_key1 eq '2D65A9925CEF7103' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:30: PlayFab lobby matching search filter 'string_key1 eq '4A631507F86A0832' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:32: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:30:34: PlayFab lobby matching search filter 'string_key1 eq '4450E71C792A042C' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:36: PlayFab lobby matching search filter 'string_key1 eq '2D65A9925CEF7103' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:38: PlayFab lobby matching search filter 'string_key1 eq '4A631507F86A0832' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:40: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:30:42: PlayFab lobby matching search filter 'string_key1 eq '4450E71C792A042C' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:44: PlayFab lobby matching search filter 'string_key1 eq '2D65A9925CEF7103' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:46: PlayFab lobby matching search filter 'string_key1 eq '4A631507F86A0832' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:30:48: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:31:47: PlayFab lobby matching search filter 'string_key1 eq '4450E71C792A042C' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:31:49: PlayFab lobby matching search filter 'string_key1 eq '2D65A9925CEF7103' and string_key2 eq 'True'': Got back zero lobbies
+02/10/2023 19:31:50: Added server with name Nullables Valheim to server list
+02/10/2023 19:31:51: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:31:51: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:52: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:52: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:52: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:52: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:53: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:53: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:53: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:53: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:54: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:55: Backend not retreived yet, checking again in 0.25 seconds...
+02/10/2023 19:31:55: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 5
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 19:31:55: Determined backend of dedicated server to be PlayFab
+02/10/2023 19:31:55: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 19:31:55: Cloud Save: 196 bytes. /serverlist/favorite.new
+02/10/2023 19:31:55: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:31:55: Steam Cloud Move: 196 bytes. /serverlist/favorite -> /serverlist/favorite.old
+02/10/2023 19:31:55: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:31:55: Steam Cloud Move: 196 bytes. /serverlist/favorite.new -> /serverlist/favorite
+02/10/2023 19:31:55: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:31:55: Cloud Save: 196 bytes. /serverlist/recent.new
+02/10/2023 19:31:55: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:31:55: Steam Cloud Move: 196 bytes. /serverlist/recent -> /serverlist/recent.old
+02/10/2023 19:31:55: Steam writing file chunks 1 / 1, (196 bytes)
+02/10/2023 19:31:55: Steam Cloud Move: 196 bytes. /serverlist/recent.new -> /serverlist/recent
+02/10/2023 19:31:55: Steam writing file chunks 1 / 1, (196 bytes)
+UnloadTime: 221.409286 ms
+02/10/2023 19:31:55: Steam initialized, persona:Kranken
+02/10/2023 19:31:55: PlayFab custom ID set to "Steam_76561198000930043"
+02/10/2023 19:31:55: Using default prefs
+02/10/2023 19:31:55: Loading player profile oogabooga
+02/10/2023 19:31:55: isModded: False
+02/10/2023 19:31:55: Zonesystem Awake 262003
+02/10/2023 19:31:55: DungeonDB Awake 262003
+02/10/2023 19:31:55: Steam initialized, persona:Kranken
+02/10/2023 19:31:55: Audioman already exist, destroying self
+02/10/2023 19:31:55: Checking for installed DLCs
+02/10/2023 19:31:55: DLC:beta installed:False
+
+Unloading 126 unused Assets to reduce memory usage. Loaded Objects now: 141524.
+Total: 96.033776 ms (FindLiveObjects: 7.184194 ms CreateObjectMapping: 10.280825 ms MarkObjects: 77.254147 ms  DeleteObjects: 1.314050 ms)
+
+02/10/2023 19:32:00: Zonesystem Start 262003
+02/10/2023 19:32:00: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+02/10/2023 19:32:00: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+02/10/2023 19:32:00: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+02/10/2023 19:32:00: DungeonDB Start 262003
+02/10/2023 19:32:01: ZRpc timeout set to 30s 
+02/10/2023 19:32:01: Connecting to server with PlayFab-backend FCFBCCA58F1FA61
+02/10/2023 19:32:01: PlayFab socket with remote ID FCFBCCA58F1FA61 sent local Platform ID Steam_76561198000930043
+02/10/2023 19:32:01: Ticket is System.Byte[] of length 369
+02/10/2023 19:32:01: Session auth respons callback
+02/10/2023 19:32:02: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 19:32:06: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 4
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 19:32:06: Joining server 'Nullables Valheim' at PlayFab network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ== from lobby 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+02/10/2023 19:32:07: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 19:32:07: ZRpc timeout set to 90s 
+02/10/2023 19:32:07: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 19:32:07: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 19:32:07: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 19:32:07: Muted PlayFab remote player 16C4C1FAF5216960
+02/10/2023 19:32:17: Muted PlayFab remote player BEF50A6109154BF2
+02/10/2023 19:32:57: VERSION check their:0.213.4  mine:0.213.4
+02/10/2023 19:32:57: Worldgenerator version setup:2
+02/10/2023 19:32:59: Session auth respons callback
+02/10/2023 19:33:05: Unpacking compressed mapdata 8763
+02/10/2023 19:33:05: Starting respawn
+02/10/2023 19:33:05: client got keys 1
+02/10/2023 19:33:05: client got location icons
+02/10/2023 19:33:05: Icons:1
+02/10/2023 19:33:05: tip:$loadscreen_tip02
+02/10/2023 19:33:13: Spawned after 8.019994
+02/10/2023 19:33:13: Skipping unloading unused assets
+02/10/2023 19:33:13: Minimap: Adding unique location (-124.0, 76.5, -253.3)
+02/10/2023 19:33:15: Starting music meadows
+02/10/2023 19:33:15: Resumed music meadows at 3896793
+02/10/2023 19:33:21: Muted PlayFab remote player BEF50A6109154BF2
+02/10/2023 19:34:36: Refresh complete 8150  eServerResponded
+02/10/2023 19:34:38: Setting selected recipe 0
+02/10/2023 19:34:38: UI Group status changed root = True
+02/10/2023 19:34:38: UI Group status changed Player = True
+02/10/2023 19:35:11: Muted PlayFab remote player BEF50A6109154BF2
+02/10/2023 19:37:11: Muted PlayFab remote player D4242524597FC3BC
+02/10/2023 19:37:23: Setting selected recipe 0
+02/10/2023 19:37:23: UI Group status changed root = True
+02/10/2023 19:37:23: UI Group status changed Player = True
+02/10/2023 19:37:49: Setting selected recipe 0
+02/10/2023 19:37:49: UI Group status changed root = True
+02/10/2023 19:37:49: UI Group status changed Player = True
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerHide(Clone)   im: -130657990
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerHide(Clone)   im: -130657990
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerMeat(Clone)   im: -130657990
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerHide(Clone)   im: -130657990
+02/10/2023 19:39:21:   but im not the owner
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerHide(Clone)   im: -130657990
+02/10/2023 19:39:21:   but im not the owner
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerMeat(Clone)   im: -130657990
+02/10/2023 19:39:21:   but im not the owner
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerHide(Clone)   im: -130657990
+02/10/2023 19:39:21:   but im not the owner
+02/10/2023 19:39:21: Player 196834295 wants to pickup DeerMeat(Clone)   im: -130657990
+02/10/2023 19:39:22: Player 196834295 wants to pickup DeerHide(Clone)   im: -130657990
+02/10/2023 19:39:22:   but im not the owner
+02/10/2023 19:39:22: Player 196834295 wants to pickup DeerMeat(Clone)   im: -130657990
+02/10/2023 19:39:22:   but im not the owner
+02/10/2023 19:39:22: Player 196834295 wants to pickup DeerHide(Clone)   im: -130657990
+02/10/2023 19:39:22:   but im not the owner
+02/10/2023 19:39:22: Player 196834295 wants to pickup DeerMeat(Clone)   im: -130657990
+02/10/2023 19:39:22:   but im not the owner
+02/10/2023 19:39:55: Force generaeting hmap (128.0, 0.0, -384.0)
+02/10/2023 19:39:55: Force generaeting hmap (192.0, 0.0, -384.0)
+02/10/2023 19:40:02: Player 196834295 wants to pickup BoneFragments(Clone)   im: -130657990
+02/10/2023 19:40:02: Player 196834295 wants to pickup BoneFragments(Clone)   im: -130657990
+02/10/2023 19:40:02:   but im not the owner
+02/10/2023 19:40:02: Player 196834295 wants to pickup BoneFragments(Clone)   im: -130657990
+02/10/2023 19:40:02:   but im not the owner
+02/10/2023 19:40:07: Setting selected recipe 0
+02/10/2023 19:40:07: UI Group status changed root = True
+02/10/2023 19:40:07: UI Group status changed Player = True
+02/10/2023 19:40:12: Drop item $item_dandelion
+02/10/2023 19:40:12: drop all 4  4
+02/10/2023 19:40:12: Setting selected recipe 0
+02/10/2023 19:40:12: Queue unlock msg:$msg_newmaterial:$item_bonefragments
+02/10/2023 19:40:29: Player 196834295 wants to pickup RawMeat(Clone)   im: -130657990
+02/10/2023 19:40:29:   but im not the owner
+02/10/2023 19:40:29: Player 196834295 wants to pickup LeatherScraps(Clone)   im: -130657990
+02/10/2023 19:40:29:   but im not the owner
+02/10/2023 19:40:29: Player 196834295 wants to pickup RawMeat(Clone)   im: -130657990
+02/10/2023 19:40:29: Player 196834295 wants to pickup LeatherScraps(Clone)   im: -130657990
+02/10/2023 19:40:29: Player 196834295 wants to pickup RawMeat(Clone)   im: -130657990
+02/10/2023 19:40:29:   but im not the owner
+02/10/2023 19:40:29: Player 196834295 wants to pickup LeatherScraps(Clone)   im: -130657990
+02/10/2023 19:40:29:   but im not the owner
+02/10/2023 19:41:32: Update PlayFab entity token
+02/10/2023 19:41:39: Player 196834295 wants to pickup Raspberry(Clone)   im: -130657990
+02/10/2023 19:41:39: Player 196834295 wants to pickup Raspberry(Clone)   im: -130657990
+02/10/2023 19:41:39:   but im not the owner
+02/10/2023 19:41:39: Player 196834295 wants to pickup Raspberry(Clone)   im: -130657990
+02/10/2023 19:41:39: Player 196834295 wants to pickup Raspberry(Clone)   im: -130657990
+02/10/2023 19:41:39:   but im not the owner
+02/10/2023 19:41:47: Valid True
+02/10/2023 19:41:47: On death False
+02/10/2023 19:41:50: Player 196834295 wants to pickup LeatherScraps(Clone)   im: -130657990
+02/10/2023 19:41:50: Player 196834295 wants to pickup RawMeat(Clone)   im: -130657990
+02/10/2023 19:41:50: Player 196834295 wants to pickup LeatherScraps(Clone)   im: -130657990
+02/10/2023 19:41:50:   but im not the owner
+02/10/2023 19:41:50: Player 196834295 wants to pickup RawMeat(Clone)   im: -130657990
+02/10/2023 19:41:50:   but im not the owner
+02/10/2023 19:41:50: Player 196834295 wants to pickup LeatherScraps(Clone)   im: -130657990
+02/10/2023 19:41:50:   but im not the owner
+02/10/2023 19:41:53: Valid True
+02/10/2023 19:41:53: On death False
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:55: Im still nto the owner
+02/10/2023 19:41:56: Im finally the owner
+02/10/2023 19:42:25: Force generaeting hmap (-256.0, 0.0, -320.0)
+02/10/2023 19:42:25: Force generaeting hmap (-320.0, 0.0, -320.0)
+02/10/2023 19:42:25: Force generaeting hmap (-320.0, 0.0, -256.0)
+02/10/2023 19:42:28: Setting selected recipe 0
+02/10/2023 19:42:28: UI Group status changed root = True
+02/10/2023 19:42:28: UI Group status changed Player = True
+02/10/2023 19:43:53: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 19:46:00: Setting selected recipe 0
+02/10/2023 19:46:00: UI Group status changed root = True
+02/10/2023 19:46:00: UI Group status changed Player = True
+02/10/2023 19:46:22: Setting selected recipe 0
+02/10/2023 19:46:23: UI Group status changed root = True
+02/10/2023 19:46:23: UI Group status changed Player = True
+02/10/2023 19:46:30: Drop item $item_club
+02/10/2023 19:46:30: drop all 1  1
+02/10/2023 19:46:30: Setting selected recipe 0
+02/10/2023 19:46:30: Player 1011232614 wants to pickup Club(Clone)   im: -130657990
+02/10/2023 19:46:32: Drop item $item_axe_stone
+02/10/2023 19:46:32: drop all 1  1
+02/10/2023 19:46:32: Setting selected recipe 0
+02/10/2023 19:46:32: Player 1011232614 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:32: Player 1011232614 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:32:   but im not the owner
+02/10/2023 19:46:34: Drop item $item_axe_stone
+02/10/2023 19:46:34: drop all 1  1
+02/10/2023 19:46:34: Setting selected recipe 0
+02/10/2023 19:46:35: Drop item $item_hammer
+02/10/2023 19:46:35: drop all 1  1
+02/10/2023 19:46:35: Setting selected recipe 0
+02/10/2023 19:46:36: Player 1011232614 wants to pickup Hammer(Clone)   im: -130657990
+02/10/2023 19:46:38: Drop item $item_axe_stone
+02/10/2023 19:46:38: drop all 1  1
+02/10/2023 19:46:38: Setting selected recipe 0
+02/10/2023 19:46:38: Player 1011232614 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:38: Player 1011232614 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:38:   but im not the owner
+02/10/2023 19:46:40: Drop item $item_axe_stone
+02/10/2023 19:46:40: drop all 1  1
+02/10/2023 19:46:40: Setting selected recipe 0
+02/10/2023 19:46:40: Player 1011232614 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:40: Player 1011232614 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:40:   but im not the owner
+02/10/2023 19:46:42: Drop item $item_axe_stone
+02/10/2023 19:46:42: drop all 1  1
+02/10/2023 19:46:42: Setting selected recipe 0
+02/10/2023 19:46:43: Drop item $item_hammer
+02/10/2023 19:46:43: drop all 1  1
+02/10/2023 19:46:43: Setting selected recipe 0
+02/10/2023 19:46:53: Player 1608139797 wants to pickup Hammer(Clone)   im: -130657990
+02/10/2023 19:46:53: Player 1608139797 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:53: Player 1608139797 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:53: Player 1608139797 wants to pickup Hammer(Clone)   im: -130657990
+02/10/2023 19:46:53:   but im not the owner
+02/10/2023 19:46:53: Player 1608139797 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:53:   but im not the owner
+02/10/2023 19:46:53: Player 1608139797 wants to pickup AxeStone(Clone)   im: -130657990
+02/10/2023 19:46:53:   but im not the owner
+02/10/2023 19:46:53: Player 1608139797 wants to pickup Hammer(Clone)   im: -130657990
+02/10/2023 19:46:53:   but im not the owner
+02/10/2023 19:46:53: Starting music boss_eikthyr
+02/10/2023 19:46:57: Stopped music meadows at 7148406
+02/10/2023 19:47:24: Setting selected recipe 0
+02/10/2023 19:47:24: UI Group status changed root = True
+02/10/2023 19:47:24: UI Group status changed Player = True
+02/10/2023 19:47:46: Setting selected recipe 0
+02/10/2023 19:47:46: UI Group status changed root = True
+02/10/2023 19:47:46: UI Group status changed Player = True
+02/10/2023 19:48:24: Starting respawn
+02/10/2023 19:48:24: Local player destroyed
+02/10/2023 19:48:24: tip:$loadscreen_tip16
+02/10/2023 19:48:28: Stopped music boss_eikthyr at 3967353
+02/10/2023 19:48:32: Found bed at custom spawn point
+02/10/2023 19:48:32: Skipping unloading unused assets
+02/10/2023 19:48:39: Starting music home
+02/10/2023 19:48:40: Stopped music home at 18815
+02/10/2023 19:48:44: Right click
+02/10/2023 19:48:53: Left click
+02/10/2023 19:49:03: client got keys 2
+02/10/2023 19:49:07: Spawned Neck x 2
+02/10/2023 19:49:26: Spawned Greydwarf x 1
+02/10/2023 19:49:26: Spawned Greydwarf x 1
+02/10/2023 19:49:35: Spawned Deer x 1
+02/10/2023 19:50:00: Force generaeting hmap (128.0, 0.0, -384.0)
+02/10/2023 19:50:00: Force generaeting hmap (192.0, 0.0, -384.0)
+02/10/2023 19:50:00: Spawned Greydwarf x 1
+02/10/2023 19:50:39: Done fading color
+02/10/2023 19:51:13: Grave should fit in inventory, loot all
+02/10/2023 19:51:13: Player -130657990 wants to takeall from Player_tombstone(Clone)   im: -130657990
+02/10/2023 19:51:14: Force generaeting hmap (-320.0, 0.0, -256.0)
+02/10/2023 19:51:21: Spawned Greydwarf x 1
+02/10/2023 19:51:24: Setting selected recipe 0
+02/10/2023 19:51:24: UI Group status changed root = True
+02/10/2023 19:51:24: UI Group status changed Player = True
+02/10/2023 19:51:29: Drop item $item_axe_stone
+02/10/2023 19:51:29: drop all 1  1
+02/10/2023 19:51:29: Setting selected recipe 0
+02/10/2023 19:51:31: Drop item $item_axe_stone
+02/10/2023 19:51:31: drop all 1  1
+02/10/2023 19:51:31: Setting selected recipe 0
+02/10/2023 19:51:32: Drop item $item_hammer
+02/10/2023 19:51:32: drop all 1  1
+02/10/2023 19:51:32: Setting selected recipe 0
+02/10/2023 19:51:34: Drop item $item_axe_stone
+02/10/2023 19:51:34: drop all 1  1
+02/10/2023 19:51:34: Setting selected recipe 0
+02/10/2023 19:51:35: Drop item $item_hammer
+02/10/2023 19:51:35: drop all 1  1
+02/10/2023 19:51:35: Setting selected recipe 0
+02/10/2023 19:51:36: Drop item $item_club
+02/10/2023 19:51:36: drop all 1  1
+02/10/2023 19:51:36: Setting selected recipe 0
+02/10/2023 19:51:38: Drop item $item_axe_stone
+02/10/2023 19:51:38: drop all 1  1
+02/10/2023 19:51:38: Setting selected recipe 0
+02/10/2023 19:51:39: Drop item $item_axe_stone
+02/10/2023 19:51:39: drop all 1  1
+02/10/2023 19:51:39: Setting selected recipe 0
+02/10/2023 19:52:07: DiscoverClosestLocation
+02/10/2023 19:52:07: Show text :HUNT HIS KIN
+02/10/2023 19:53:12: Force generaeting hmap (128.0, 0.0, -384.0)
+02/10/2023 19:53:12: Force generaeting hmap (192.0, 0.0, -384.0)
+02/10/2023 19:53:49: Spawned Boar x 2
+02/10/2023 19:54:57: Starting respawn
+02/10/2023 19:54:57: Local player destroyed
+02/10/2023 19:54:57: tip:$loadscreen_tip21
+02/10/2023 19:55:05: Found bed at custom spawn point
+02/10/2023 19:55:05: Unloading unused assets
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3038 unused Assets to reduce memory usage. Loaded Objects now: 1951551.
+Total: 574.403934 ms (FindLiveObjects: 119.040717 ms CreateObjectMapping: 32.686706 ms MarkObjects: 397.971590 ms  DeleteObjects: 24.704281 ms)
+
+02/10/2023 19:55:07: Starting music home
+02/10/2023 19:55:22: Setting selected recipe 0
+02/10/2023 19:55:22: UI Group status changed root = True
+02/10/2023 19:55:22: UI Group status changed Player = True
+02/10/2023 19:56:27: Stopped music home at 3506361
+02/10/2023 19:56:32: Right click
+02/10/2023 19:57:07: Grave should fit in inventory, loot all
+02/10/2023 19:57:07: Player -130657990 wants to takeall from Player_tombstone(Clone)   im: -130657990
+02/10/2023 19:57:10: Starting music morning
+02/10/2023 19:57:32: Setting selected recipe 0
+02/10/2023 19:57:32: UI Group status changed root = True
+02/10/2023 19:57:32: UI Group status changed Player = True
+02/10/2023 19:57:44: Starting music meadows
+02/10/2023 19:58:01: Update PlayFab entity token
+02/10/2023 19:58:22: Queue unlock msg:$msg_newmaterial:$item_necktail
+02/10/2023 19:58:22: Setting selected recipe 0
+02/10/2023 19:58:22: UI Group status changed root = True
+02/10/2023 19:58:22: UI Group status changed Player = True
+02/10/2023 19:58:22: UI Group status changed Container = False
+02/10/2023 19:58:30: Setting selected recipe 0
+02/10/2023 19:58:50: Is mine
+02/10/2023 19:58:50: is current spawnpoint
+02/10/2023 19:58:50: Is mine
+02/10/2023 19:58:50: is current spawnpoint
+02/10/2023 19:58:51: Is mine
+02/10/2023 19:58:51: is current spawnpoint
+02/10/2023 19:58:58: Stopped music meadows at 3251404
+02/10/2023 19:58:58: Starting music home
+02/10/2023 19:58:58: Resumed music home at 3506361
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+a component is in an invalid state to perform the requested operation
+02/10/2023 20:00:14: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+The error code is not valid or is an internal error. Please contact Microsoft for further diagnosis.
+02/10/2023 20:00:17: Reset party to clear network error
+ResetParty
+Task: CleanPartyTask
+Task: InitPartyTask()
+02/10/2023 20:00:46: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 20:00:50: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 4
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 20:00:50: Leave server 'Nullables Valheim' at new PlayFab network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==, try to re-join later
+02/10/2023 20:00:56: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 20:01:00: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 4
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 20:01:00: Re-joining server 'Nullables Valheim' at new PlayFab network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 20:01:01: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 20:01:01: ZRpc timeout set to 90s 
+02/10/2023 20:01:02: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 20:01:02: Resume TX on playfab/FCFBCCA58F1FA61
+02/10/2023 20:01:02: Do a reset party as nothing seems to be received
+ResetParty
+Task: LeaveNetworkTask
+02/10/2023 20:01:02: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 20:01:02: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 20:01:02: Muted PlayFab remote player 16C4C1FAF5216960
+Task: CleanPartyTask
+02/10/2023 20:01:04: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+Task: InitPartyTask()
+Task: JoinPartyTask
+02/10/2023 20:01:06: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 4
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 20:01:06: Leave server 'Nullables Valheim' at new PlayFab network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==, try to re-join later
+invalid argument specified
+invalid argument specified
+invalid argument specified
+02/10/2023 20:01:13: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 20:01:18: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 4
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 20:01:18: Re-joining server 'Nullables Valheim' at new PlayFab network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+You need to connect to a network before you can call this method.
+02/10/2023 20:01:19: Failed to send, suspend TX on playfab/FCFBCCA58F1FA61 while trying to reconnect
+02/10/2023 20:01:20: PlayFab client socket to remote player FCFBCCA58F1FA61 joined network f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+02/10/2023 20:01:20: ZRpc timeout set to 90s 
+02/10/2023 20:01:21: PlayFab socket connected to remote player FCFBCCA58F1FA61
+02/10/2023 20:01:21: Resume TX on playfab/FCFBCCA58F1FA61
+02/10/2023 20:01:21: Muted PlayFab remote player FCFBCCA58F1FA61
+02/10/2023 20:01:21: Muted PlayFab remote player 2D65A9925CEF7103
+02/10/2023 20:01:21: Muted PlayFab remote player 16C4C1FAF5216960
+02/10/2023 20:01:21: Expected zero or one lobby got 2 matching lobbies, returning newest lobby
+02/10/2023 20:01:25: Get Lobby
+Server Name : Nullables Valheim
+Server IP : 51.89.172.144:29900
+Version : 0.213.4
+Player ID : FCFBCCA58F1FA61
+Players : 4
+Lobby ID : 5c624288-e8b1-4f55-8a8d-a89f34de1c4a
+Network ID : f7d719ac-30cc-42b5-b072-3484c752ce67|AwAIYgw9IrAmPdRP66snhWeq3kPZ+Vdlc3RFdXJvcGUAAAAAAAAAAAAA2nmiEpapxSC+Owo1h8qJ5NuEOmtS0oeJqq8h6q5ybZZrbk1kbnMtaXI4MWU1LWJjZjhmOGMwLTEyYzYtNGM5OC1hMDQ5LTA4ZjljN2EzNzc1OS53ZXN0ZXVyb3BlLmNsb3VkYXBwLmF6dXJlLmNvbQ==
+Join Code : 355087
+Dedicated : True
+Community : True
+TickCreated : 638116505150497260
+
+02/10/2023 20:02:32: Uncompressed size 8389010
+02/10/2023 20:02:32: Compressed size 8784
+02/10/2023 20:02:32: Cloud Save: 29522 bytes. /characters/oogabooga.fch.new
+02/10/2023 20:02:33: Steam writing file chunks 1 / 1, (29522 bytes)
+02/10/2023 20:02:33: Steam Cloud Move: 29792 bytes. /characters/oogabooga.fch -> /characters/oogabooga.fch.old
+02/10/2023 20:02:33: Steam writing file chunks 1 / 1, (29792 bytes)
+02/10/2023 20:02:33: Steam Cloud Move: 29522 bytes. /characters/oogabooga.fch.new -> /characters/oogabooga.fch
+02/10/2023 20:02:33: Steam writing file chunks 1 / 1, (29522 bytes)
+02/10/2023 20:02:33: Considering autobackup. World time: 1799.98, short time: 7200, long time: 43200, backup count: 4
+02/10/2023 20:02:33: No autobackup needed yet...
+02/10/2023 20:06:04: UI Group status changed MenuRoot = False
+02/10/2023 20:06:05: Game - OnApplicationQuit
+02/10/2023 20:06:05: Shuting down
+02/10/2023 20:06:05: Uncompressed size 8389010
+02/10/2023 20:06:05: Compressed size 8784
+02/10/2023 20:06:05: Cloud Save: 29522 bytes. /characters/oogabooga.fch.new
+02/10/2023 20:06:05: Steam writing file chunks 1 / 1, (29522 bytes)
+02/10/2023 20:06:05: Steam Cloud Move: 29522 bytes. /characters/oogabooga.fch -> /characters/oogabooga.fch.old
+02/10/2023 20:06:05: Steam writing file chunks 1 / 1, (29522 bytes)
+02/10/2023 20:06:05: Steam Cloud Move: 29522 bytes. /characters/oogabooga.fch.new -> /characters/oogabooga.fch
+02/10/2023 20:06:05: Steam writing file chunks 1 / 1, (29522 bytes)
+02/10/2023 20:06:05: Considering autobackup. World time: 2012.6, short time: 7200, long time: 43200, backup count: 4
+02/10/2023 20:06:05: No autobackup needed yet...
+02/10/2023 20:06:05: ZNet Shutdown
+02/10/2023 20:06:05: Unloading unused assets
+02/10/2023 20:06:05: Sending disconnect msg
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+02/10/2023 20:06:05: Sent to playfab/FCFBCCA58F1FA61
+02/10/2023 20:06:05: Released session ticket
+
+Unloading 3130 unused Assets to reduce memory usage. Loaded Objects now: 1951671.
+Total: 588.809741 ms (FindLiveObjects: 112.465404 ms CreateObjectMapping: 32.554775 ms MarkObjects: 409.950986 ms  DeleteObjects: 33.837506 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 7fcf5535d6c0 -> priority: 1 
+  Thread -> id: 7fcda77fe6c0 -> priority: 1 
+  Thread -> id: 7fcf5435b6c0 -> priority: 1 
+  Thread -> id: 7fce62e956c0 -> priority: 1 
+  Thread -> id: 7fcda7fff6c0 -> priority: 1 
+  Thread -> id: 7fcda6ffd6c0 -> priority: 1 
+02/10/2023 20:06:08: Local player destroyed
+02/10/2023 20:06:08: FOund selected Button_yes
+02/10/2023 20:06:08: ZNet OnDestroy
+02/10/2023 20:06:08: Net scene destroyed
+02/10/2023 20:06:10: Steam manager on destroy
+Vulkan PSO: data extracted [new size=1601176, old size=0, incomplete=0]
+Vulkan PSO: Saved size[1601176] path[/tmp/IronGate/Valheim/vulkan_pso_cache.bin] success=1 headerChanged=1 sizeChanged=1

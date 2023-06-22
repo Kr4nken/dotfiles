@@ -1,0 +1,39 @@
+{
+  "defaultSettings": {
+    "checkUpdatesInterval": 10,
+    "enableUpdates": false,
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "addSteamShortcuts": false,
+    "preferSystemLibs": false,
+    "checkForUpdatesOnStartup": true,
+    "autoUpdateGames": false,
+    "customWinePaths": [],
+    "defaultInstallPath": "/home/jflx/Games/Heroic",
+    "libraryTopSection": "disabled",
+    "defaultSteamPath": "/home/jflx/.steam/steam",
+    "defaultWinePrefix": "/home/jflx/Games/Heroic/Prefixes",
+    "hideChangelogsOnStartup": false,
+    "language": "en",
+    "maxWorkers": 0,
+    "minimizeOnLaunch": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "userInfo": {
+      "name": "jflx"
+    },
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/jflx/.wine",
+    "wineVersion": {
+      "bin": "",
+      "name": "Default Wine - Not Found",
+      "type": "wine"
+    }
+  },
+  "version": "v0"
+}

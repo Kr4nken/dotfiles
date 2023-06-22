@@ -1,0 +1,32 @@
+{
+    "UseWindowFocus": true,
+    "configVersion": 2,
+    "displays": [
+        {
+            "name": "DisplayPort-0",
+            "vibrance": 100
+        }
+    ],
+    "programs": [
+        {
+            "matchString": "/home/jflx/.steam/steam/steamapps/common/Counter-Strike Global Offensive/csgo_linux64",
+            "type": "MatchPath",
+            "vibrance": [
+                {
+                    "name": "DisplayPort-0",
+                    "vibrance": 400
+                }
+            ]
+        },
+        {
+            "matchString": "Counter-Strike",
+            "type": "SubMatchTitle",
+            "vibrance": [
+                {
+                    "name": "DisplayPort-0",
+                    "vibrance": 400
+                }
+            ]
+        }
+    ]
+}

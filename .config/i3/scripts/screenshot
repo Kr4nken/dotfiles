@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+file="$HOME/.config/i3/xclip.png"
+scrot -f -s $file -p
+xclip -sel clipboard -t image/png -i < $file
+rm -rf $file

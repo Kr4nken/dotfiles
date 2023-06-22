@@ -1,0 +1,23 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1440</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">2560</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1920</pref>
+	<pref name="UnityGraphicsQuality" type="int">4</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="gamePrefs" type="string">eyJDcm9zc2hhaXJBbHdheXNFbmFibGVkIjp0cnVlLCJRdWlja0Nhc3RFbmFibGVkIjp0cnVlLCJBdXRvTGV2ZWxVcEVuYWJsZWQiOnRydWUsIkRhbWFnZU51bWJlcnNFbmFibGVkIjp0cnVlLCJEYW1hZ2VOdW1iZXJDb2xvcnNFbmFibGVkIjpmYWxzZSwiRW5lbXlIZWFsdGhCYXJzRGlzYWJsZWQiOmZhbHNlLCJFbGl0ZUVuZW15SGVhbHRoQmFyc0Rpc2FibGVkIjpmYWxzZSwiQm9zc0hlYWx0aEJhcnNEaXNhYmxlZCI6ZmFsc2UsIlNob3dUb29sdGlwc0R1cmluZ0dhbWVwbGF5Ijp0cnVlLCJDdXJzb3JTaXplIjo5Ni4wLCJDdXJzb3JIdWUiOjAuMCwiQ3Vyc29yU2F0dXJhdGlvbiI6MC41LCJRdWFsaXR5U2V0dGluZ3NJbmRleCI6NCwiRWZmZWN0VmlzaWJpbGl0eSI6MS4wLCJWc3luYyI6dHJ1ZSwiQXVkaW9Wb2x1bWVzIjp7Ik1hc3RlclZvbHVtZSI6MS4wLCJTZnhWb2x1bWUiOjEuMCwiTXVzaWNWb2x1bWUiOjEuMCwiQW1iaWVuY2VWb2x1bWUiOjEuMH0sIlVzZUNhbnZhc0NvbWJhdFRleHQiOmZhbHNlLCJVc2VDYW52YXNIZWFsdGhCYXJzIjpmYWxzZSwiVGFyZ2V0RlBTTGltaXQiOjE0NC4wLCJVc2VJbmRpdmlkdWFsRGFtYWdlTnVtYmVycyI6ZmFsc2UsIkRpc2FibGVPYmplY3RpdmVXYXJuaW5nSXRlbSI6ZmFsc2V9</pref>
+	<pref name="language" type="string">ZW4=</pref>
+	<pref name="migratedCursorColor" type="int">1</pref>
+	<pref name="migratedDamageColors" type="int">1</pref>
+	<pref name="migratedIngameTooltips" type="int">1</pref>
+	<pref name="migratedQualitySettings" type="int">1</pref>
+	<pref name="migratedRefreshRate" type="int">1</pref>
+	<pref name="musicVolume" type="float">0</pref>
+	<pref name="unity.cloud_userid" type="string">NGQ3MDc4MTY0NzVlMmYwYmM4MGZlOWMyM2VhYThiY2E=</pref>
+	<pref name="unity.player_session_count" type="string">NA==</pref>
+	<pref name="unity.player_sessionid" type="string">MTk3MTM0MzA0MDQxMTY0OTc3MA==</pref>
+</unity_prefs>
